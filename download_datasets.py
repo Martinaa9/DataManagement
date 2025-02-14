@@ -1,6 +1,8 @@
 import os
 import pandas as pd
+import kagglehub
 from kaggle.api.kaggle_api_extended import KaggleApi
+
 
 # Funzione per scaricare i dataset tramite API
 def download_datasets():
@@ -9,9 +11,9 @@ def download_datasets():
 
     # Lista dei dataset da scaricare
     datasets = [
-        "openfoodfacts/world-food-facts",
         "nehaprabhavalkar/indian-food-101",
-        "imtkaggleteam/fast-food-restaurants-across-america"
+        "imtkaggleteam/fast-food-restaurants-across-america",
+        "markmedhat/food-dataset"
     ]
 
     # Creare una cartella per i dataset se non esiste
@@ -28,25 +30,29 @@ def download_datasets():
 def load_datasets():
     try:
         # Tentiamo di caricare i file CSV/TSV con gestione delle righe problematiche
-        df_world_food = pd.read_csv('datasets/en.openfoodfacts.org.products.tsv', sep='\t', error_bad_lines=False)  # Ignora le righe problematiche
-        df_indian_food = pd.read_csv('datasets/indian_food.csv')  # Nominato correttamente
-        df_fast_food = pd.read_csv('datasets/Datafiniti_Fast_Food_Restaurants.csv')  # Nominato correttamente
-
+        df_indian_food = pd.read_csv('datasets/indian_food.csv')  
+        df_fast_food = pd.read_csv('datasets/Datafiniti_Fast_Food_Restaurants.csv')  
+     #   df_food_dataset = pd.read_csv('datasets/food_dataset.csv')  
         # Caricare il quarto dataset scaricato manualmente (CSV)
-        df_food_waste = pd.read_csv('C:/Users/hp/DataManagement/Food Waste data and research - by country.csv')
+        #df_food_waste = pd.read_csv('C:/Users/hp/DataManagement/Food Waste data and research - by country.csv')
 
         # Mostrare le prime righe dei dataframe per verificare che siano caricati correttamente
-        print("World Food Facts Dataset:")
-        print(df_world_food.head())
+
+       # print("\nIndian Food Dataset:")
+       # print(df_indian_food.head())
+
+       # print("\nFast Food Restaurants Dataset:")
+       # print(df_fast_food.head())
+        
+
         print("\nIndian Food Dataset:")
-        print(df_indian_food.head())
-        print("\nFast Food Restaurants Dataset:")
-        print(df_fast_food.head())
-        print("\nFood Waste Dataset:")
-        print(df_food_waste.head())
-
-        return df_world_food, df_indian_food, df_fast_food, df_food_waste
-
+        #I need to take one columnc from df_indian_food
+        df_indian_food = df_indian_food[['name','ingredients','diet','prep_time','cook_time','flavor_profile','course','state','region']]
+        #I want to print only the columns region
+        print(df_indian_food['state'])
+        
+        return df_indian_food, df_fast_food
+    
     except Exception as e:
         print(f"Errore nel caricamento dei dataset: {e}")
 
@@ -54,5 +60,11 @@ def load_datasets():
 download_datasets()
 
 # Caricare i dataset
-df_world_food, df_indian_food, df_fast_food, df_food_waste = load_datasets()
+df_indian_food, df_fast_food = load_datasets()
 
+df_food_dataset = pd.read_csv('datasets/food_coded.csv')  
+#I need to take one columnc from df_food_dataset
+df_food_dataset = df_food_dataset
+print("*************************")
+print("\nFood Dataset:")
+print(df_food_dataset['GPA'])
