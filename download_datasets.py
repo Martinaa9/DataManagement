@@ -1,6 +1,6 @@
 import os
 import pandas as pd
-import kagglehub
+#import kagglehub
 from kaggle.api.kaggle_api_extended import KaggleApi
 
 
@@ -13,7 +13,9 @@ def download_datasets():
     datasets = [
         "nehaprabhavalkar/indian-food-101",
         "imtkaggleteam/fast-food-restaurants-across-america",
-        "markmedhat/food-dataset"
+        "markmedhat/food-dataset",
+        "niharika41298/nutrition-details-for-most-common-foods",  # Dataset Nutrizionale per cibi comuni
+        #"utkarshsaxenadn/fast-food-nutrition-eda-data-analysis",  # Dataset Fast Food
     ]
 
     # Creare una cartella per i dataset se non esiste
@@ -21,10 +23,13 @@ def download_datasets():
 
     # Scaricare tutti i dataset nella cartella 'datasets'
     for dataset in datasets:
-        print(f"Scaricando {dataset}...")
-        api.dataset_download_files(dataset, path="datasets/", unzip=True)
+        try:
+            print(f"Scaricando {dataset}...")
+            api.dataset_download_files(dataset, path="datasets/", unzip=True)
+            print(f"Dataset {dataset} scaricato con successo!")
+        except Exception as e:
+            print(f"Errore durante il download del dataset {dataset}: {e}")
 
-    print("Download completato per i dataset via API! ✅ I file si trovano nella cartella 'datasets'.")
 
 # Funzione per caricare i dataset scaricati
 def load_datasets():
@@ -32,10 +37,11 @@ def load_datasets():
         # Tentiamo di caricare i file CSV/TSV con gestione delle righe problematiche
         df_indian_food = pd.read_csv('datasets/indian_food.csv')  
         df_fast_food = pd.read_csv('datasets/Datafiniti_Fast_Food_Restaurants.csv')  
-     #   df_food_dataset = pd.read_csv('datasets/food_dataset.csv')  
+        #df_food_dataset = pd.read_csv('datasets/food_dataset.csv')  
         # Caricare il quarto dataset scaricato manualmente (CSV)
         #df_food_waste = pd.read_csv('C:/Users/hp/DataManagement/Food Waste data and research - by country.csv')
-
+        df_nutrition = pd.read_csv('datasets/nutrients_csvfile.csv')
+        
         # Mostrare le prime righe dei dataframe per verificare che siano caricati correttamente
 
        # print("\nIndian Food Dataset:")
