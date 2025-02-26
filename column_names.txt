@@ -2,8 +2,6 @@ Indian Food Dataset columns:
 - name
 - ingredients
 - diet
-- prep_time
-- cook_time
 - flavor_profile
 - course
 - state
@@ -11,20 +9,14 @@ Indian Food Dataset columns:
 
 Fast Food Restaurants Dataset columns:
 - id
-- dateAdded
-- dateUpdated
-- address
 - categories
 - city
 - country
-- keys
 - latitude
 - longitude
 - name
 - postalCode
 - province
-- sourceURLs
-- websites
 
 Nutrition Dataset columns:
 - Food
@@ -33,70 +25,25 @@ Nutrition Dataset columns:
 - Calories
 - Protein
 - Fat
-- Sat.Fat
-- Fiber
 - Carbs
 - Category
 
-Food Dataset columns:
-- GPA
-- Gender
-- breakfast
-- calories_chicken
-- calories_day
-- calories_scone
-- coffee
-- comfort_food
-- comfort_food_reasons
-- comfort_food_reasons_coded
-- cook
-- comfort_food_reasons_coded.1
-- cuisine
-- diet_current
-- diet_current_coded
-- drink
-- eating_changes
-- eating_changes_coded
-- eating_changes_coded1
-- eating_out
-- employment
-- ethnic_food
-- exercise
-- father_education
-- father_profession
-- fav_cuisine
-- fav_cuisine_coded
-- fav_food
-- food_childhood
-- fries
-- fruit_day
-- grade_level
-- greek_food
-- healthy_feeling
-- healthy_meal
-- ideal_diet
-- ideal_diet_coded
-- income
-- indian_food
-- italian_food
-- life_rewarding
-- marital_status
-- meals_dinner_friend
-- mother_education
-- mother_profession
-- nutritional_check
-- on_off_campus
-- parents_cook
-- pay_meal_out
-- persian_food
-- self_perception_weight
-- soup
-- sports
-- thai_food
-- tortilla_calories
-- turkey_calories
-- type_sports
-- veggies_day
-- vitamins
-- waffle_calories
-- weight
+Fast food nutrition columns:
+- Company
+- Item
+- Calories
+- Fat
+- Carbs
+- Protein
+
+Food waste columns:
+- Country
+- combined figures (kg/capita/year)
+- Household estimate (kg/capita/year)
+- Household estimate (tonnes/year)
+- Retail estimate (kg/capita/year)
+- Retail estimate (tonnes/year)
+- Food service estimate (kg/capita/year)
+- Food service estimate (tonnes/year)
+- Confidence in estimate
+- Region
