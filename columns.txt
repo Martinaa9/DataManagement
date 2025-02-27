@@ -1,0 +1,84 @@
+Fast Food Nutrition Menu Dataset columns:
+- Company
+- Item
+- Calories
+- Calories from
+Fat
+- Total Fat
+(g)
+- Saturated Fat
+(g)
+- Trans Fat
+(g)
+- Cholesterol
+(mg)
+- Sodium 
+(mg)
+- Carbs
+(g)
+- Fiber
+(g)
+- Sugars
+(g)
+- Protein
+(g)
+- Weight Watchers
+Pnts
+
+Fast Food Restaurants Dataset columns:
+- id
+- dateAdded
+- dateUpdated
+- address
+- categories
+- city
+- country
+- keys
+- latitude
+- longitude
+- name
+- postalCode
+- province
+- sourceURLs
+- websites
+
+Joined Table columns:
+- Company
+- Item
+- Calories
+- Calories from
+Fat
+- Total Fat
+(g)
+- Saturated Fat
+(g)
+- Trans Fat
+(g)
+- Cholesterol
+(mg)
+- Sodium 
+(mg)
+- Carbs
+(g)
+- Fiber
+(g)
+- Sugars
+(g)
+- Protein
+(g)
+- Weight Watchers
+Pnts
+- id
+- dateAdded
+- dateUpdated
+- address
+- categories
+- city
+- country
+- keys
+- latitude
+- longitude
+- postalCode
+- province
+- sourceURLs
+- websites
