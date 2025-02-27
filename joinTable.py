@@ -1,4 +1,6 @@
 import pandas as pd
+import numpy as np
+import openpyxl
 import os
 
 def joinColumns(df1, df2, column1, column2):
@@ -38,5 +40,11 @@ def write_columns_to_file(filename):
     print(f"Elenco delle colonne salvato in '{filename}'.")
 write_columns_to_file('columns.txt')
 
+#I want to write an excell file with the joined table
+#joinedTable.to_excel('joinedTable.xlsx', index=False)
+#I want to write a csv file with the joined table
+joinedTable.to_csv('joinedTable.csv', index=False)
+#print("Tabella salvata in 'joinedTable.csv'.")
+#print("Tabella salvata in 'joinedTable.xlsx'.")
 
 
