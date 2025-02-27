@@ -14,7 +14,6 @@ df_indian_food = pd.read_csv('datasets/indian_food.csv')
 df_fast_food = pd.read_csv('datasets/Datafiniti_Fast_Food_Restaurants.csv') #
 df_nutrition = pd.read_csv('datasets/nutrients_csvfile.csv')
 df_fastFoodNutrition = pd.read_csv('datasets/FastFoodNutritionMenuV2.csv') #
-df_food_dataset = pd.read_csv('datasets/food_coded.csv')
 
 #print(df_indian_food['name'])
 

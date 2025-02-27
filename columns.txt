@@ -2,28 +2,9 @@ Fast Food Nutrition Menu Dataset columns:
 - Company
 - Item
 - Calories
-- Calories from
-Fat
-- Total Fat
-(g)
-- Saturated Fat
-(g)
-- Trans Fat
-(g)
-- Cholesterol
-(mg)
-- Sodium 
-(mg)
-- Carbs
-(g)
-- Fiber
-(g)
-- Sugars
-(g)
-- Protein
-(g)
-- Weight Watchers
-Pnts
+- Fat
+- Carbs
+- Protein
 
 Fast Food Restaurants Dataset columns:
 - id
@@ -46,28 +27,9 @@ Joined Table columns:
 - Company
 - Item
 - Calories
-- Calories from
-Fat
-- Total Fat
-(g)
-- Saturated Fat
-(g)
-- Trans Fat
-(g)
-- Cholesterol
-(mg)
-- Sodium 
-(mg)
-- Carbs
-(g)
-- Fiber
-(g)
-- Sugars
-(g)
-- Protein
-(g)
-- Weight Watchers
-Pnts
+- Fat
+- Carbs
+- Protein
 - id
 - dateAdded
 - dateUpdated
