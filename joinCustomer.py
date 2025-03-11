@@ -19,6 +19,9 @@ import random
 df_fastfood = pd.read_csv('datasets/FastFoodNutritionMenuV2.csv')
 df_customer = pd.read_csv('datasets/onlinefood_with_customer_id.csv')
 
+#mette _ negli spazi nei nomi delle colonne
+df_customer.columns = df_customer.columns.str.replace(" ", "_")
+
 # Perform the join between the two DataFrames
 df_merged = pd.merge(df_customer, df_fastfood, left_on='favorite_fastfood', right_on='Company', how='inner')
 

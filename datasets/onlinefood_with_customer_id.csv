@@ -1,4 +1,4 @@
-Age,Gender,Marital Status,Occupation,Monthly Income,Educational Qualifications,Family size,latitude,longitude,Pin code,Output,Feedback,Unnamed: 12,customer_id,favorite_fastfood
+Age,Gender,Marital_Status,Occupation,Monthly_Income,Educational_Qualifications,Family_size,latitude,longitude,Pin_code,Output,Feedback,Unnamed:_12,customer_id,favorite_fastfood
 20,Female,Single,Student,No Income,Post Graduate,4,12.9766,77.5993,560001,Yes,Positive,Yes,1,Pizza Hut
 24,Female,Single,Student,Below Rs.10000,Graduate,3,12.977,77.5773,560009,Yes,Positive,Yes,2,Pizza Hut
 22,Male,Single,Student,Below Rs.10000,Post Graduate,3,12.9551,77.6593,560017,Yes,Negative ,Yes,3,Burger King
