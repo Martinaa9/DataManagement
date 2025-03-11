@@ -1,0 +1,389 @@
+Age,Gender,Marital_Status,Occupation,Monthly_Income,Educational_Qualifications,Family_size,latitude,longitude,Pin_code,Output,Feedback,Unnamed:_12,customer_id,favorite_fastfood
+20,Female,Single,Student,No Income,Post Graduate,4,12.9766,77.5993,560001,Yes,Positive,Yes,1,McDonald’s
+24,Female,Single,Student,Below Rs.10000,Graduate,3,12.977,77.5773,560009,Yes,Positive,Yes,2,Wendy's
+22,Male,Single,Student,Below Rs.10000,Post Graduate,3,12.9551,77.6593,560017,Yes,Negative ,Yes,3,Pizza Hut
+22,Female,Single,Student,No Income,Graduate,6,12.9473,77.5616,560019,Yes,Positive,Yes,4,Wendy's
+22,Male,Single,Student,Below Rs.10000,Post Graduate,4,12.985,77.5533,560010,Yes,Positive,Yes,5,Pizza Hut
+27,Female,Married,Employee,More than 50000,Post Graduate,2,12.9299,77.6848,560103,Yes,Positive,Yes,6,Wendy's
+22,Male,Single,Student,No Income,Graduate,3,12.977,77.5773,560009,Yes,Positive,Yes,7,Burger King
+24,Female,Single,Student,No Income,Post Graduate,3,12.9828,77.6131,560042,Yes,Positive,Yes,8,Taco Bell
+23,Female,Single,Student,No Income,Post Graduate,2,12.9766,77.5993,560001,Yes,Positive,Yes,9,Burger King
+23,Female,Single,Student,No Income,Post Graduate,4,12.9854,77.7081,560048,Yes,Positive,Yes,10,McDonald’s
+22,Female,Single,Student,No Income,Post Graduate,5,12.985,77.5533,560010,Yes,Positive,Yes,11,KFC
+23,Male,Single,Student,Below Rs.10000,Post Graduate,2,12.977,77.5773,560009,Yes,Negative ,Yes,12,Burger King
+23,Male,Single,Student,No Income,Post Graduate,5,12.8988,77.5764,560078,Yes,Positive,Yes,13,KFC
+21,Male,Single,Student,No Income,Graduate,4,12.977,77.5773,560009,Yes,Positive,Yes,14,Pizza Hut
+23,Female,Single,Self Employeed,10001 to 25000,Post Graduate,5,12.9438,77.5738,560004,Yes,Positive,Yes,15,Burger King
+24,Female,Single,Student,No Income,Post Graduate,6,12.8893,77.6399,560068,Yes,Positive,Yes,16,Taco Bell
+28,Female,Single,Employee,25001 to 50000,Post Graduate,2,12.9783,77.6408,560038,Yes,Positive,Yes,17,Pizza Hut
+23,Female,Single,Student,No Income,Graduate,3,12.982,77.6256,560008,Yes,Negative ,Yes,18,Taco Bell
+25,Male,Single,Student,No Income,Graduate,4,12.8988,77.5764,560078,Yes,Negative ,Yes,19,Pizza Hut
+21,Female,Single,Student,Below Rs.10000,Post Graduate,1,12.9783,77.6408,560038,Yes,Positive,Yes,20,Pizza Hut
+24,Male,Single,Student,No Income,Post Graduate,3,12.977,77.5773,560009,Yes,Positive,Yes,21,Wendy's
+22,Male,Single,Student,No Income,Post Graduate,4,13.0298,77.6047,560032,Yes,Positive,Yes,22,Wendy's
+22,Female,Single,Student,No Income,Graduate,4,12.9983,77.6409,560033,Yes,Positive,Yes,23,Pizza Hut
+23,Male,Single,Student,No Income,Graduate,4,12.9925,77.5633,560021,Yes,Positive,Yes,24,Burger King
+21,Male,Single,Student,Below Rs.10000,Post Graduate,3,12.9306,77.5434,560085,Yes,Positive,Yes,25,Burger King
+25,Male,Single,Student,No Income,Post Graduate,3,12.982,77.6256,560008,Yes,Positive,Yes,26,Taco Bell
+22,Female,Single,Student,No Income,Post Graduate,5,12.9353,77.5585,560050,Yes,Positive,Yes,27,Taco Bell
+22,Male,Single,Student,No Income,Post Graduate,3,12.9155,77.5135,560098,Yes,Positive,Yes,28,Wendy's
+23,Female,Single,Employee,10001 to 25000,Graduate,3,12.9854,77.7081,560048,Yes,Positive,Yes,29,KFC
+22,Male,Single,Student,Below Rs.10000,Post Graduate,4,13.0019,77.5713,560003,Yes,Positive,Yes,30,Wendy's
+22,Female,Single,Employee,10001 to 25000,Graduate,5,12.9698,77.75,560066,Yes,Positive,Yes,31,KFC
+22,Male,Single,Student,No Income,Post Graduate,4,12.9783,77.6408,560038,Yes,Positive,Yes,32,Pizza Hut
+25,Male,Married,Employee,More than 50000,Ph.D,4,12.9261,77.6221,560034,Yes,Positive,Yes,33,Wendy's
+22,Female,Single,Student,10001 to 25000,Post Graduate,5,12.985,77.5533,560010,Yes,Positive,Yes,34,Burger King
+22,Female,Single,Student,No Income,Post Graduate,2,12.9119,77.6446,560102,Yes,Positive,Yes,35,McDonald’s
+25,Male,Single,Student,10001 to 25000,Post Graduate,3,12.9306,77.5434,560085,Yes,Positive,Yes,36,McDonald’s
+25,Male,Single,Student,No Income,Post Graduate,5,12.977,77.5773,560009,No,Positive,No,37,Pizza Hut
+32,Female,Prefer not to say,House wife,No Income,Graduate,5,12.982,77.6256,560008,Yes,Negative ,Yes,38,Wendy's
+23,Female,Single,Student,No Income,Post Graduate,3,12.9438,77.5738,560004,Yes,Positive,Yes,39,Burger King
+23,Female,Single,Student,No Income,Post Graduate,4,12.8988,77.5764,560078,Yes,Positive,Yes,40,Wendy's
+30,Male,Married,Self Employeed,More than 50000,Uneducated,4,12.9662,77.6068,560025,Yes,Negative ,Yes,41,Pizza Hut
+23,Male,Single,Student,No Income,Graduate,3,12.9565,77.5484,560026,Yes,Positive,Yes,42,Pizza Hut
+23,Male,Single,Student,No Income,Post Graduate,4,12.9925,77.5633,560021,Yes,Positive,Yes,43,Pizza Hut
+22,Female,Single,Student,No Income,Post Graduate,5,12.985,77.5533,560010,Yes,Positive,Yes,44,KFC
+22,Male,Single,Student,No Income,Graduate,5,12.985,77.5533,560010,Yes,Positive,Yes,45,McDonald’s
+27,Female,Married,Self Employeed,10001 to 25000,Post Graduate,2,12.9261,77.6221,560034,Yes,Positive,Yes,46,McDonald’s
+24,Female,Single,Student,No Income,Post Graduate,3,12.977,77.5773,560009,Yes,Positive,Yes,47,KFC
+23,Male,Single,Student,No Income,Post Graduate,2,12.977,77.5773,560009,Yes,Positive,Yes,48,Wendy's
+23,Female,Single,Student,No Income,Graduate,3,12.982,77.6256,560008,Yes,Negative ,Yes,49,McDonald’s
+22,Female,Single,Student,10001 to 25000,Post Graduate,5,12.985,77.5533,560010,Yes,Positive,Yes,50,Pizza Hut
+23,Female,Single,Student,No Income,Graduate,5,13.0206,77.6479,560043,Yes,Positive,Yes,51,McDonald’s
+23,Female,Single,Student,No Income,Post Graduate,2,12.977,77.5773,560009,Yes,Positive,Yes,52,Burger King
+24,Male,Single,Student,No Income,Post Graduate,3,12.977,77.5773,560009,Yes,Positive,Yes,53,McDonald’s
+25,Male,Single,Student,No Income,Post Graduate,2,12.9635,77.5821,560002,Yes,Positive,Yes,54,Burger King
+22,Male,Single,Student,No Income,Post Graduate,3,12.9306,77.5434,560085,Yes,Positive,Yes,55,Wendy's
+28,Female,Married,Student,No Income,Graduate,2,13.0067,77.545,560086,Yes,Positive,Yes,56,Wendy's
+22,Female,Single,Student,No Income,Post Graduate,1,12.8845,77.6036,560076,Yes,Positive,Yes,57,Pizza Hut
+24,Female,Single,Student,No Income,Graduate,3,12.977,77.5773,560009,Yes,Positive,Yes,58,Pizza Hut
+31,Male,Married,Employee,More than 50000,Ph.D,5,12.9119,77.6446,560102,Yes,Positive,Yes,59,Wendy's
+25,Male,Single,Student,No Income,Post Graduate,4,13.0067,77.545,560086,Yes,Positive,Yes,60,Taco Bell
+23,Male,Single,Student,No Income,Post Graduate,5,12.8988,77.5764,560078,Yes,Positive,Yes,61,Burger King
+22,Male,Single,Student,No Income,Post Graduate,3,12.8845,77.6036,560076,Yes,Positive,Yes,62,Wendy's
+23,Male,Single,Student,25001 to 50000,Post Graduate,1,13.0158,77.539,560096,Yes,Positive,Yes,63,Taco Bell
+23,Male,Single,Student,No Income,Graduate,4,12.9343,77.6044,560029,Yes,Positive,Yes,64,Burger King
+23,Female,Single,Student,No Income,Post Graduate,2,13.0019,77.5713,560003,Yes,Positive,Yes,65,McDonald’s
+25,Male,Single,Student,No Income,Post Graduate,6,13.0012,77.5995,560046,Yes,Positive,Yes,66,Burger King
+24,Male,Single,Employee,10001 to 25000,Graduate,4,12.9442,77.6076,560030,Yes,Positive,Yes,67,Pizza Hut
+23,Female,Single,Student,No Income,Post Graduate,4,13.0487,77.5923,560024,Yes,Positive,Yes,68,KFC
+23,Female,Single,Student,No Income,Post Graduate,4,13.0487,77.5923,560024,Yes,Positive,Yes,69,Pizza Hut
+24,Female,Married,Employee,More than 50000,Ph.D,4,12.9438,77.5738,560004,Yes,Positive,Yes,70,KFC
+22,Male,Single,Student,No Income,Graduate,4,12.9889,77.5741,560020,Yes,Positive,Yes,71,Wendy's
+24,Female,Single,Student,10001 to 25000,Post Graduate,3,12.9335,77.5691,560028,No,Positive,No,72,Pizza Hut
+25,Female,Single,Student,No Income,Post Graduate,3,12.9766,77.5993,560001,Yes,Positive,Yes,73,Pizza Hut
+23,Male,Single,Student,No Income,Post Graduate,2,12.8845,77.6036,560076,Yes,Positive,Yes,74,Wendy's
+26,Male,Single,Student,No Income,Post Graduate,4,13.0019,77.5713,560003,Yes,Positive,Yes,75,KFC
+24,Female,Single,Student,25001 to 50000,Post Graduate,3,13.102,77.5864,560064,Yes,Positive,Yes,76,McDonald’s
+26,Male,Single,Student,No Income,Post Graduate,4,12.9048,77.6821,560036,Yes,Positive,Yes,77,McDonald’s
+21,Male,Single,Student,No Income,Graduate,4,12.977,77.5773,560009,Yes,Positive,Yes,78,McDonald’s
+22,Female,Single,Student,No Income,Post Graduate,3,12.977,77.5773,560009,Yes,Positive,Yes,79,McDonald’s
+24,Male,Single,Student,No Income,Post Graduate,5,12.9337,77.59,560011,Yes,Positive,Yes,80,McDonald’s
+24,Male,Single,Student,10001 to 25000,Post Graduate,4,12.9037,77.5376,560061,Yes,Positive,Yes,81,KFC
+23,Female,Single,Student,No Income,Post Graduate,3,12.977,77.5773,560009,Yes,Positive,Yes,82,KFC
+23,Male,Single,Student,No Income,Post Graduate,3,12.9343,77.6044,560029,Yes,Positive,Yes,83,McDonald’s
+22,Male,Single,Student,No Income,Post Graduate,3,12.9438,77.5738,560004,Yes,Positive,Yes,84,Burger King
+23,Male,Single,Student,No Income,Post Graduate,3,12.977,77.5773,560009,Yes,Positive,Yes,85,Taco Bell
+24,Female,Single,Student,No Income,Post Graduate,4,12.9783,77.6408,560038,Yes,Positive,Yes,86,Taco Bell
+24,Male,Single,Student,No Income,Post Graduate,5,12.9337,77.59,560011,Yes,Positive,Yes,87,Taco Bell
+25,Male,Single,Student,No Income,Graduate,1,12.977,77.5773,560009,Yes,Positive,Yes,88,Pizza Hut
+25,Male,Single,Student,No Income,Post Graduate,5,12.977,77.5773,560009,No,Positive,No,89,Wendy's
+28,Male,Married,Self Employeed,10001 to 25000,Graduate,2,13.0289,77.54,560022,No,Negative ,No,90,Wendy's
+27,Female,Prefer not to say,Employee,25001 to 50000,Post Graduate,5,13.0289,77.54,560022,No,Positive,No,91,Wendy's
+26,Male,Single,Self Employeed,10001 to 25000,Ph.D,1,12.9698,77.75,560066,No,Positive,No,92,McDonald’s
+22,Male,Single,Student,No Income,Post Graduate,2,12.977,77.5773,560009,Yes,Positive,Yes,93,Burger King
+24,Female,Single,Student,No Income,Post Graduate,3,12.977,77.5773,560009,Yes,Positive,Yes,94,KFC
+23,Male,Single,Student,No Income,Post Graduate,1,12.9561,77.5921,560027,Yes,Positive,Yes,95,Taco Bell
+25,Male,Single,Student,No Income,Graduate,1,12.977,77.5773,560009,Yes,Positive,Yes,96,McDonald’s
+23,Female,Single,Student,No Income,Graduate,5,13.0206,77.6479,560043,Yes,Positive,Yes,97,Wendy's
+23,Female,Single,Student,No Income,Graduate,5,13.0206,77.6479,560043,Yes,Positive,Yes,98,Pizza Hut
+26,Male,Married,Employee,25001 to 50000,Graduate,5,12.9579,77.6309,560007,No,Positive,No,99,Taco Bell
+32,Female,Married,House wife,No Income,Uneducated,3,13.014,77.5658,560012,No,Positive,No,100,McDonald’s
+24,Female,Single,Student,10001 to 25000,Post Graduate,3,12.9335,77.5691,560028,No,Positive,No,101,Taco Bell
+23,Male,Single,Student,No Income,Post Graduate,2,12.9442,77.6076,560030,Yes,Positive,Yes,102,Wendy's
+22,Female,Single,Employee,10001 to 25000,Graduate,3,12.9698,77.75,560066,Yes,Positive,Yes,103,KFC
+24,Female,Single,Student,No Income,Ph.D,3,12.9438,77.5738,560004,Yes,Positive,Yes,104,Wendy's
+26,Male,Single,Employee,25001 to 50000,Graduate,2,12.9261,77.6221,560034,Yes,Negative ,Yes,105,Wendy's
+28,Male,Married,Employee,More than 50000,Graduate,3,12.9698,77.75,560066,No,Positive,No,106,McDonald’s
+26,Male,Single,Employee,More than 50000,Post Graduate,2,12.9698,77.75,560066,No,Positive,No,107,Pizza Hut
+25,Male,Single,Student,No Income,Post Graduate,1,12.9343,77.6044,560029,Yes,Positive,Yes,108,Pizza Hut
+25,Male,Single,Employee,Below Rs.10000,Graduate,2,12.9698,77.75,560066,No,Positive,No,109,Wendy's
+18,Male,Single,Student,No Income,Graduate,5,12.9635,77.5821,560002,Yes,Positive,Yes,110,Burger King
+21,Male,Single,Student,No Income,Post Graduate,4,12.977,77.5773,560009,Yes,Positive,Yes,111,KFC
+25,Male,Single,Student,No Income,Post Graduate,1,12.9343,77.6044,560029,Yes,Positive,Yes,112,McDonald’s
+25,Male,Single,Student,Below Rs.10000,Post Graduate,2,12.9925,77.5633,560021,Yes,Positive,Yes,113,Burger King
+23,Female,Single,Student,No Income,Graduate,5,13.0206,77.6479,560043,Yes,Positive,Yes,114,KFC
+23,Male,Single,Employee,10001 to 25000,Post Graduate,2,12.985,77.5533,560010,Yes,Positive,Yes,115,KFC
+25,Female,Married,Employee,25001 to 50000,Graduate,4,12.9551,77.6593,560017,No,Negative ,No,116,McDonald’s
+31,Female,Married,House wife,No Income,School,5,13.0289,77.54,560022,Yes,Positive,Yes,117,Wendy's
+24,Male,Prefer not to say,Self Employeed,More than 50000,Ph.D,2,13.0138,77.5877,560006,No,Positive,No,118,Wendy's
+32,Female,Married,Employee,25001 to 50000,Graduate,5,12.9261,77.6221,560034,Yes,Positive,Yes,119,McDonald’s
+25,Male,Single,Employee,25001 to 50000,Graduate,3,12.9766,77.5993,560001,Yes,Positive,Yes,120,McDonald’s
+27,Female,Married,Self Employeed,More than 50000,Graduate,5,12.9766,77.5993,560001,No,Positive,No,121,Wendy's
+26,Male,Single,Self Employeed,25001 to 50000,Graduate,3,12.9766,77.5993,560001,Yes,Positive,Yes,122,Wendy's
+26,Female,Single,Self Employeed,25001 to 50000,Post Graduate,3,12.9635,77.5821,560002,Yes,Positive,Yes,123,Burger King
+32,Male,Married,Employee,More than 50000,Ph.D,5,12.9635,77.5821,560002,Yes,Negative ,Yes,124,Burger King
+24,Male,Married,Self Employeed,More than 50000,Ph.D,6,12.9635,77.5821,560002,No,Negative ,No,125,Taco Bell
+27,Female,Married,Self Employeed,25001 to 50000,Graduate,3,12.9635,77.5821,560002,Yes,Positive,Yes,126,KFC
+23,Male,Single,Student,No Income,Post Graduate,3,12.977,77.5773,560009,Yes,Positive,Yes,127,McDonald’s
+25,Male,Single,Student,No Income,Post Graduate,4,12.977,77.5773,560009,Yes,Positive,Yes,128,Taco Bell
+23,Male,Single,Student,No Income,Post Graduate,3,12.977,77.5773,560009,Yes,Positive,Yes,129,Burger King
+23,Female,Single,Student,No Income,Post Graduate,4,13.0487,77.5923,560024,Yes,Positive,Yes,130,Burger King
+28,Male,Married,Employee,More than 50000,Post Graduate,3,13.0019,77.5713,560003,Yes,Positive,Yes,131,KFC
+32,Female,Married,Employee,More than 50000,Graduate,1,13.0019,77.5713,560003,No,Positive,No,132,Burger King
+23,Male,Single,Student,No Income,Post Graduate,2,13.0019,77.5713,560003,Yes,Positive,Yes,133,Wendy's
+19,Male,Single,Student,No Income,Graduate,2,13.0019,77.5713,560003,No,Negative ,No,134,Taco Bell
+19,Female,Single,Student,No Income,Graduate,4,12.9537,77.6176,560047,Yes,Positive,Yes,135,Burger King
+27,Female,Married,Employee,25001 to 50000,Post Graduate,2,12.9698,77.75,560066,No,Positive,No,136,McDonald’s
+25,Male,Single,Self Employeed,25001 to 50000,Graduate,3,12.998,77.6227,560005,Yes,Positive,Yes,137,KFC
+33,Male,Married,Employee,More than 50000,Ph.D,5,12.998,77.6227,560005,No,Negative ,No,138,Wendy's
+26,Female,Single,Employee,More than 50000,Graduate,3,12.998,77.6227,560005,Yes,Positive,Yes,139,Burger King
+22,Female,Single,Student,Below Rs.10000,Post Graduate,4,12.9343,77.6044,560029,Yes,Positive,Yes,140,Pizza Hut
+23,Male,Single,Student,No Income,Post Graduate,3,13.102,77.5864,560064,No,Positive,No,141,Wendy's
+22,Female,Single,Student,No Income,Graduate,3,13.0158,77.539,560096,Yes,Negative ,Yes,142,McDonald’s
+25,Male,Married,Employee,25001 to 50000,Graduate,2,12.998,77.6227,560005,Yes,Positive,Yes,143,Burger King
+30,Female,Married,House wife,No Income,School,5,12.998,77.6227,560005,Yes,Positive,Yes,144,Burger King
+24,Male,Single,Student,No Income,Post Graduate,3,13.0138,77.5877,560006,No,Negative ,No,145,Taco Bell
+25,Male,Single,Employee,10001 to 25000,Post Graduate,3,13.0138,77.5877,560006,Yes,Positive,Yes,146,Wendy's
+23,Male,Single,Student,More than 50000,Post Graduate,3,12.977,77.5773,560009,Yes,Positive,Yes,147,McDonald’s
+24,Female,Single,Student,No Income,Post Graduate,4,13.0496,77.4941,560073,Yes,Positive,Yes,148,Wendy's
+32,Male,Married,Employee,10001 to 25000,Graduate,4,12.9783,77.6408,560038,Yes,Positive,Yes,149,Taco Bell
+22,Male,Single,Student,No Income,Post Graduate,4,12.9889,77.5741,560020,Yes,Positive,Yes,150,Burger King
+23,Male,Single,Student,More than 50000,Post Graduate,3,12.977,77.5773,560009,Yes,Positive,Yes,151,Taco Bell
+23,Female,Single,Student,No Income,Post Graduate,4,13.0487,77.5923,560024,Yes,Positive,Yes,152,McDonald’s
+20,Male,Single,Student,No Income,Graduate,2,12.9579,77.6309,560007,Yes,Positive,Yes,153,Wendy's
+21,Male,Single,Student,No Income,Graduate,2,12.9579,77.6309,560007,Yes,Positive,Yes,154,Pizza Hut
+24,Female,Married,Self Employeed,10001 to 25000,Graduate,5,12.9579,77.6309,560007,Yes,Positive,Yes,155,McDonald’s
+23,Female,Single,Student,No Income,Post Graduate,4,13.0487,77.5923,560024,Yes,Positive,Yes,156,Pizza Hut
+25,Male,Single,Employee,25001 to 50000,Post Graduate,3,12.985,77.5533,560010,Yes,Positive,Yes,157,Wendy's
+32,Female,Married,House wife,No Income,Graduate,3,12.985,77.5533,560010,Yes,Positive,Yes,158,McDonald’s
+27,Male,Married,Employee,More than 50000,Ph.D,5,12.985,77.5533,560010,No,Negative ,No,159,Taco Bell
+20,Female,Single,Student,No Income,Graduate,2,12.9337,77.59,560011,Yes,Positive,Yes,160,Taco Bell
+21,Male,Single,Student,No Income,Graduate,2,12.9337,77.59,560011,Yes,Positive,Yes,161,KFC
+26,Male,Single,Employee,More than 50000,Post Graduate,3,12.9337,77.59,560011,No,Negative ,No,162,Wendy's
+25,Male,Single,Employee,10001 to 25000,Graduate,4,13.0166,77.6804,560016,Yes,Positive,Yes,163,Taco Bell
+26,Male,Single,Employee,25001 to 50000,Post Graduate,3,13.014,77.5658,560012,Yes,Positive,Yes,164,Wendy's
+26,Female,Married,Employee,25001 to 50000,Graduate,3,13.014,77.5658,560012,Yes,Positive,Yes,165,Taco Bell
+27,Male,Single,Employee,More than 50000,Ph.D,4,13.0503,77.5529,560013,No,Positive,No,166,Burger King
+27,Female,Single,Student,No Income,Ph.D,5,13.0503,77.5529,560013,No,Negative ,No,167,Pizza Hut
+24,Female,Single,Student,No Income,Post Graduate,5,12.9883,77.5987,560051,Yes,Positive,Yes,168,Taco Bell
+25,Male,Married,Self Employeed,More than 50000,School,2,13.0626,77.5284,560015,Yes,Positive,Yes,169,Taco Bell
+20,Male,Single,Student,No Income,Graduate,2,13.0626,77.5284,560015,No,Negative ,No,170,McDonald’s
+22,Male,Single,Student,No Income,Post Graduate,1,13.0626,77.5284,560015,Yes,Positive,Yes,171,Taco Bell
+26,Female,Married,Student,Below Rs.10000,Ph.D,3,13.0166,77.6804,560016,Yes,Positive,Yes,172,Wendy's
+27,Male,Prefer not to say,Employee,25001 to 50000,Post Graduate,1,13.0166,77.6804,560016,Yes,Positive,Yes,173,Wendy's
+25,Female,Single,Student,No Income,Post Graduate,3,12.9551,77.6593,560017,Yes,Positive,Yes,174,Pizza Hut
+24,Male,Single,Employee,Below Rs.10000,Graduate,2,12.9551,77.6593,560017,Yes,Positive,Yes,175,Taco Bell
+23,Female,Single,Employee,10001 to 25000,Graduate,6,12.9551,77.6593,560017,Yes,Positive,Yes,176,Pizza Hut
+22,Male,Single,Student,No Income,Graduate,2,12.957,77.5637,560018,No,Positive,No,177,Taco Bell
+26,Male,Married,Self Employeed,More than 50000,Post Graduate,3,12.957,77.5637,560018,No,Negative ,No,178,McDonald’s
+26,Male,Single,Employee,Below Rs.10000,Post Graduate,1,12.957,77.5637,560018,Yes,Negative ,Yes,179,McDonald’s
+25,Female,Married,Self Employeed,25001 to 50000,Post Graduate,3,12.957,77.5637,560018,No,Positive,No,180,McDonald’s
+29,Female,Married,Employee,More than 50000,Graduate,3,12.957,77.5637,560018,No,Positive,No,181,Wendy's
+23,Male,Single,Student,Below Rs.10000,Graduate,3,12.8652,77.524,560109,Yes,Negative ,Yes,182,Burger King
+22,Female,Single,Employee,25001 to 50000,Graduate,4,12.9698,77.75,560066,Yes,Positive,Yes,183,McDonald’s
+22,Male,Single,Student,No Income,Graduate,2,12.9889,77.5741,560020,No,Positive,No,184,Burger King
+32,Female,Married,House wife,No Income,School,5,12.9889,77.5741,560020,Yes,Positive,Yes,185,KFC
+28,Male,Married,Employee,More than 50000,Post Graduate,1,12.9925,77.5633,560021,Yes,Positive,Yes,186,Wendy's
+22,Male,Single,Student,No Income,Post Graduate,2,12.977,77.5773,560009,Yes,Positive,Yes,187,McDonald’s
+25,Male,Single,Employee,10001 to 25000,Graduate,2,12.9757,77.5586,560023,Yes,Positive,Yes,188,Burger King
+26,Female,Married,Employee,25001 to 50000,Post Graduate,2,12.9757,77.5586,560023,No,Negative ,No,189,Burger King
+31,Male,Married,Self Employeed,More than 50000,School,6,13.0487,77.5923,560024,Yes,Positive,Yes,190,Taco Bell
+24,Male,Single,Student,No Income,Post Graduate,3,13.0487,77.5923,560024,No,Negative ,No,191,Taco Bell
+24,Male,Single,Employee,25001 to 50000,Post Graduate,2,12.9662,77.6068,560025,Yes,Positive,Yes,192,KFC
+31,Female,Married,Employee,More than 50000,Ph.D,5,12.9662,77.6068,560025,Yes,Positive,Yes,193,McDonald’s
+26,Male,Single,Employee,25001 to 50000,Graduate,2,12.9343,77.6044,560029,Yes,Positive,Yes,194,Taco Bell
+24,Female,Married,Self Employeed,More than 50000,Graduate,2,12.9343,77.6044,560029,Yes,Positive,Yes,195,Burger King
+22,Female,Single,Student,No Income,Graduate,3,12.9343,77.6044,560029,Yes,Positive,Yes,196,Burger King
+19,Male,Single,Student,No Income,Graduate,6,12.9442,77.6076,560030,Yes,Positive,Yes,197,Taco Bell
+25,Male,Married,Employee,More than 50000,Post Graduate,6,12.9442,77.6076,560030,Yes,Positive,Yes,198,Wendy's
+23,Female,Married,House wife,No Income,School,6,12.9442,77.6076,560030,Yes,Positive,Yes,199,Taco Bell
+23,Female,Single,Student,No Income,Graduate,2,13.0298,77.6047,560032,No,Negative ,No,200,McDonald’s
+23,Male,Single,Student,No Income,Post Graduate,2,12.9261,77.6221,560034,Yes,Positive,Yes,201,Taco Bell
+24,Male,Single,Student,No Income,Post Graduate,5,12.9621,77.5376,560104,Yes,Positive,Yes,202,Pizza Hut
+22,Female,Single,Employee,25001 to 50000,Graduate,4,12.8845,77.6036,560076,Yes,Positive,Yes,203,Taco Bell
+26,Male,Married,Employee,More than 50000,Graduate,4,12.9048,77.6821,560036,Yes,Positive,Yes,204,Wendy's
+25,Female,Single,Student,No Income,Ph.D,3,12.9048,77.6821,560036,Yes,Positive,Yes,205,McDonald’s
+20,Male,Single,Student,No Income,Graduate,2,12.9261,77.6221,560034,Yes,Positive,Yes,206,KFC
+29,Male,Married,Employee,25001 to 50000,Graduate,4,12.9261,77.6221,560034,No,Negative ,No,207,Pizza Hut
+23,Female,Single,Student,No Income,Graduate,1,12.977,77.5773,560009,Yes,Positive,Yes,208,Pizza Hut
+25,Male,Single,Self Employeed,More than 50000,Graduate,2,12.9783,77.6408,560038,Yes,Positive,Yes,209,Wendy's
+29,Female,Married,Employee,25001 to 50000,Graduate,4,12.9783,77.6408,560038,No,Negative ,No,210,Pizza Hut
+27,Male,Married,Self Employeed,25001 to 50000,Graduate,6,12.9217,77.5936,560041,No,Negative ,No,211,Burger King
+25,Male,Single,Self Employeed,10001 to 25000,Graduate,3,13.0206,77.6479,560043,Yes,Positive,Yes,212,Taco Bell
+21,Male,Single,Student,No Income,Graduate,2,13.0012,77.5995,560046,No,Negative ,No,213,McDonald’s
+23,Male,Single,Student,No Income,Graduate,3,13.0223,77.7132,560049,Yes,Positive,Yes,214,Wendy's
+24,Female,Single,Employee,10001 to 25000,Post Graduate,4,12.9337,77.59,560011,Yes,Positive,Yes,215,KFC
+32,Male,Married,Self Employeed,10001 to 25000,School,3,12.982,77.6256,560008,Yes,Negative ,Yes,216,Burger King
+28,Male,Married,Employee,25001 to 50000,Post Graduate,5,13.0262,77.62,560045,Yes,Positive,Yes,217,KFC
+26,Male,Single,Employee,10001 to 25000,Graduate,2,12.9217,77.5936,560041,No,Negative ,No,218,McDonald’s
+31,Female,Married,House wife,No Income,Graduate,5,13.0078,77.5577,560055,Yes,Positive,Yes,219,Taco Bell
+27,Female,Married,Self Employeed,25001 to 50000,Graduate,3,13.0078,77.5577,560055,Yes,Positive,Yes,220,Taco Bell
+21,Female,Single,Student,No Income,Post Graduate,1,12.9217,77.5936,560041,Yes,Positive,Yes,221,KFC
+23,Female,Single,Student,No Income,Graduate,2,12.9105,77.4842,560060,No,Positive,No,222,Burger King
+26,Male,Married,Employee,10001 to 25000,Graduate,4,12.9105,77.4842,560060,No,Positive,No,223,Wendy's
+32,Male,Married,Employee,More than 50000,Graduate,5,12.9037,77.5376,560061,Yes,Positive,Yes,224,Taco Bell
+25,Female,Married,Student,No Income,Post Graduate,2,12.8834,77.5486,560062,Yes,Positive,Yes,225,KFC
+28,Male,Single,Self Employeed,10001 to 25000,Post Graduate,2,12.9149,77.5635,560070,Yes,Positive,Yes,226,Pizza Hut
+21,Female,Single,Student,No Income,Post Graduate,3,12.9149,77.5635,560070,Yes,Positive,Yes,227,Taco Bell
+24,Male,Single,Student,No Income,Post Graduate,2,12.9706,77.6529,560075,Yes,Positive,Yes,228,Taco Bell
+26,Female,Married,Self Employeed,10001 to 25000,Graduate,5,12.9706,77.6529,560075,No,Negative ,No,229,KFC
+32,Male,Married,Employee,25001 to 50000,Graduate,3,12.9706,77.6529,560075,Yes,Positive,Yes,230,Pizza Hut
+29,Male,Single,Self Employeed,More than 50000,Graduate,6,12.8845,77.6036,560076,Yes,Positive,Yes,231,Pizza Hut
+21,Male,Single,Student,No Income,Graduate,5,12.9783,77.6408,560038,Yes,Positive,Yes,232,Taco Bell
+24,Female,Single,Self Employeed,25001 to 50000,Post Graduate,3,13.0103,77.5796,560080,No,Negative ,No,233,McDonald’s
+26,Male,Prefer not to say,Self Employeed,More than 50000,Post Graduate,2,13.0103,77.5796,560080,Yes,Positive,Yes,234,Taco Bell
+25,Male,Married,Employee,More than 50000,Ph.D,3,12.9306,77.5434,560085,Yes,Positive,Yes,235,Wendy's
+29,Male,Single,Employee,25001 to 50000,Graduate,3,13.0641,77.5931,560092,No,Negative ,No,236,Burger King
+22,Male,Single,Student,No Income,Graduate,3,13.0158,77.539,560096,Yes,Positive,Yes,237,McDonald’s
+24,Male,Single,Student,No Income,Graduate,2,12.9561,77.5921,560027,Yes,Positive,Yes,238,McDonald’s
+27,Male,Married,Employee,25001 to 50000,Graduate,2,12.8845,77.6036,560076,Yes,Positive,Yes,239,Burger King
+23,Female,Single,Student,No Income,Post Graduate,3,12.9369,77.6407,560095,No,Positive,No,240,Taco Bell
+32,Male,Married,Employee,More than 50000,Post Graduate,6,12.9369,77.6407,560095,Yes,Positive,Yes,241,KFC
+22,Female,Single,Student,No Income,Graduate,2,12.9369,77.6407,560095,Yes,Positive,Yes,242,Taco Bell
+28,Male,Married,Employee,25001 to 50000,Graduate,3,12.9369,77.6407,560095,Yes,Positive,Yes,243,Burger King
+23,Female,Single,Student,No Income,Post Graduate,2,13.0158,77.539,560096,Yes,Positive,Yes,244,Pizza Hut
+30,Male,Married,Self Employeed,More than 50000,Graduate,1,13.0809,77.5565,560097,No,Negative ,No,245,Burger King
+21,Male,Single,Student,No Income,Graduate,3,13.0641,77.5931,560092,Yes,Positive,Yes,246,KFC
+26,Female,Married,Employee,Below Rs.10000,Graduate,6,12.9859,77.6713,560093,No,Negative ,No,247,Wendy's
+25,Male,Single,Self Employeed,More than 50000,School,3,12.9859,77.6713,560093,Yes,Positive,Yes,248,KFC
+31,Male,Prefer not to say,Employee,Below Rs.10000,Graduate,1,12.9866,77.4904,560091,No,Negative ,No,249,McDonald’s
+23,Female,Single,Employee,25001 to 50000,Post Graduate,2,12.9847,77.5491,560100,Yes,Positive,Yes,250,Taco Bell
+29,Female,Married,Employee,25001 to 50000,Ph.D,3,12.9847,77.5491,560100,Yes,Positive,Yes,251,Wendy's
+21,Male,Single,Student,No Income,Graduate,6,12.9847,77.5491,560100,Yes,Positive,Yes,252,McDonald’s
+20,Male,Single,Student,No Income,Graduate,3,12.9299,77.6848,560103,Yes,Positive,Yes,253,Pizza Hut
+22,Male,Single,Employee,10001 to 25000,Graduate,2,12.9299,77.6848,560103,Yes,Positive,Yes,254,Pizza Hut
+30,Female,Married,House wife,No Income,School,6,12.9828,77.6131,560042,No,Positive,No,255,Burger King
+27,Male,Married,Self Employeed,More than 50000,Graduate,3,12.989,77.5332,560079,Yes,Positive,Yes,256,Wendy's
+23,Male,Single,Student,No Income,Post Graduate,2,12.977,77.5773,560009,No,Negative ,No,257,Taco Bell
+30,Male,Married,Self Employeed,25001 to 50000,School,6,12.9251,77.4992,560059,No,Negative ,No,258,Burger King
+23,Male,Single,Student,No Income,Post Graduate,3,12.9967,77.7582,560067,Yes,Positive,Yes,259,Taco Bell
+28,Female,Married,Employee,25001 to 50000,Post Graduate,6,12.9967,77.7582,560067,No,Negative ,No,260,Pizza Hut
+30,Male,Married,Self Employeed,More than 50000,Graduate,6,12.9967,77.7582,560067,Yes,Positive,Yes,261,McDonald’s
+24,Female,Married,Employee,25001 to 50000,Post Graduate,2,12.957,77.5637,560018,Yes,Negative ,Yes,262,Wendy's
+21,Male,Single,Student,No Income,Graduate,2,12.957,77.5637,560018,No,Negative ,No,263,Pizza Hut
+23,Female,Prefer not to say,Employee,10001 to 25000,Graduate,3,12.9889,77.5741,560020,No,Negative ,No,264,Burger King
+25,Male,Married,Self Employeed,More than 50000,Post Graduate,4,13.0206,77.6479,560043,Yes,Positive,Yes,265,Burger King
+24,Female,Single,Employee,25001 to 50000,Graduate,2,12.8893,77.6399,560068,Yes,Positive,Yes,266,McDonald’s
+26,Male,Married,Employee,10001 to 25000,Graduate,3,12.8893,77.6399,560068,No,Negative ,No,267,Taco Bell
+25,Female,Single,Employee,25001 to 50000,Post Graduate,2,12.9967,77.7582,560067,Yes,Positive,Yes,268,Wendy's
+22,Male,Single,Student,25001 to 50000,Graduate,3,12.9783,77.6408,560038,Yes,Positive,Yes,269,Burger King
+26,Female,Single,Employee,25001 to 50000,Post Graduate,2,12.9783,77.6408,560038,Yes,Positive,Yes,270,McDonald’s
+23,Male,Single,Employee,10001 to 25000,Graduate,2,12.9925,77.5633,560021,Yes,Positive,Yes,271,Burger King
+21,Female,Single,Employee,Below Rs.10000,Graduate,2,12.9925,77.5633,560021,No,Negative ,No,272,Wendy's
+25,Male,Married,Self Employeed,25001 to 50000,Graduate,3,12.9561,77.5921,560027,Yes,Positive,Yes,273,Burger King
+24,Female,Married,Employee,10001 to 25000,Post Graduate,2,12.9561,77.5921,560027,Yes,Positive,Yes,274,KFC
+22,Male,Married,Student,No Income,Graduate,2,13.0734,77.5464,560014,Yes,Positive,Yes,275,Wendy's
+23,Female,Single,Student,No Income,Post Graduate,4,13.0487,77.5923,560024,Yes,Positive,Yes,276,Wendy's
+24,Male,Married,Employee,More than 50000,Post Graduate,3,12.9515,77.4921,560056,Yes,Positive,Yes,277,Wendy's
+22,Female,Single,Student,No Income,Graduate,2,12.9515,77.4921,560056,Yes,Positive,Yes,278,Taco Bell
+30,Male,Married,Employee,More than 50000,Graduate,5,12.9719,77.5128,560072,No,Negative ,No,279,McDonald’s
+23,Female,Prefer not to say,Employee,10001 to 25000,Graduate,4,12.9048,77.6821,560036,Yes,Positive,Yes,280,Wendy's
+19,Male,Single,Student,No Income,Graduate,6,12.9048,77.6821,560036,Yes,Positive,Yes,281,KFC
+21,Female,Single,Student,No Income,Graduate,2,13.0103,77.5796,560080,Yes,Positive,Yes,282,KFC
+23,Male,Single,Student,No Income,Graduate,4,13.0103,77.5796,560080,Yes,Positive,Yes,283,KFC
+24,Female,Single,Employee,25001 to 50000,Graduate,3,12.8893,77.6399,560068,Yes,Positive,Yes,284,Taco Bell
+26,Female,Married,Employee,10001 to 25000,Post Graduate,2,12.9828,77.6131,560042,No,Positive,No,285,Taco Bell
+26,Female,Single,Student,No Income,Ph.D,2,12.9757,77.5586,560023,Yes,Positive,Yes,286,Pizza Hut
+25,Female,Single,Student,10001 to 25000,Graduate,2,12.9757,77.5586,560023,Yes,Positive,Yes,287,Pizza Hut
+28,Female,Married,Employee,25001 to 50000,Graduate,5,12.9757,77.5586,560023,No,Negative ,No,288,KFC
+25,Female,Single,Student,No Income,Post Graduate,3,13.0734,77.5464,560014,Yes,Positive,Yes,289,Pizza Hut
+20,Female,Single,Student,No Income,Graduate,2,13.0734,77.5464,560014,Yes,Positive,Yes,290,McDonald’s
+27,Female,Married,Self Employeed,More than 50000,Graduate,6,13.0734,77.5464,560014,No,Positive,No,291,Wendy's
+25,Female,Married,Employee,25001 to 50000,Graduate,3,13.0626,77.5284,560015,No,Positive,No,292,Pizza Hut
+24,Female,Single,Student,No Income,Post Graduate,5,13.0626,77.5284,560015,No,Negative ,No,293,Wendy's
+25,Female,Married,Employee,More than 50000,Graduate,1,12.977,77.5773,560009,No,Negative ,No,294,Pizza Hut
+25,Female,Prefer not to say,Employee,25001 to 50000,Post Graduate,3,12.998,77.6227,560005,No,Negative ,No,295,Pizza Hut
+24,Female,Married,Student,Below Rs.10000,Ph.D,5,13.0626,77.5284,560015,Yes,Positive,Yes,296,Taco Bell
+24,Male,Single,Student,No Income,Post Graduate,3,13.0626,77.5284,560015,Yes,Positive,Yes,297,McDonald’s
+22,Male,Single,Employee,10001 to 25000,Graduate,1,13.0138,77.5877,560006,Yes,Positive,Yes,298,Taco Bell
+28,Male,Single,Employee,25001 to 50000,Post Graduate,2,13.0138,77.5877,560006,No,Negative ,No,299,Wendy's
+25,Female,Single,Employee,More than 50000,Post Graduate,6,13.014,77.5658,560012,No,Negative ,No,300,Burger King
+22,Male,Single,Student,Below Rs.10000,Post Graduate,3,12.9551,77.6593,560017,Yes,Negative ,Yes,301,McDonald’s
+22,Female,Single,Student,No Income,Graduate,6,12.9473,77.5616,560019,Yes,Positive,Yes,302,Burger King
+22,Male,Single,Student,Below Rs.10000,Post Graduate,4,12.985,77.5533,560010,Yes,Positive,Yes,303,KFC
+27,Female,Married,Employee,More than 50000,Post Graduate,2,12.9299,77.6848,560103,Yes,Positive,Yes,304,Burger King
+22,Male,Single,Student,No Income,Graduate,3,12.977,77.5773,560009,Yes,Positive,Yes,305,KFC
+24,Female,Single,Student,No Income,Post Graduate,3,12.9828,77.6131,560042,Yes,Positive,Yes,306,Taco Bell
+23,Female,Single,Student,No Income,Post Graduate,2,12.9766,77.5993,560001,Yes,Positive,Yes,307,McDonald’s
+23,Female,Single,Student,No Income,Post Graduate,4,12.9854,77.7081,560048,Yes,Positive,Yes,308,McDonald’s
+22,Female,Single,Student,No Income,Post Graduate,5,12.985,77.5533,560010,Yes,Positive,Yes,309,Burger King
+23,Male,Single,Student,Below Rs.10000,Post Graduate,2,12.977,77.5773,560009,Yes,Negative ,Yes,310,Pizza Hut
+32,Male,Married,Employee,More than 50000,Graduate,5,12.9037,77.5376,560061,Yes,Positive,Yes,311,McDonald’s
+25,Female,Married,Student,No Income,Post Graduate,2,12.8834,77.5486,560062,Yes,Positive,Yes,312,Taco Bell
+28,Male,Single,Self Employeed,10001 to 25000,Post Graduate,2,12.9149,77.5635,560070,Yes,Positive,Yes,313,Taco Bell
+21,Female,Single,Student,No Income,Post Graduate,3,12.9149,77.5635,560070,Yes,Positive,Yes,314,Burger King
+24,Male,Single,Student,No Income,Post Graduate,2,12.9706,77.6529,560075,Yes,Positive,Yes,315,Wendy's
+26,Female,Married,Self Employeed,10001 to 25000,Graduate,5,12.9706,77.6529,560075,No,Negative ,No,316,Burger King
+32,Male,Married,Employee,25001 to 50000,Graduate,3,12.9706,77.6529,560075,Yes,Positive,Yes,317,Wendy's
+29,Male,Single,Self Employeed,More than 50000,Graduate,6,12.8845,77.6036,560076,Yes,Positive,Yes,318,McDonald’s
+21,Male,Single,Student,No Income,Graduate,5,12.9783,77.6408,560038,Yes,Positive,Yes,319,Wendy's
+24,Female,Single,Self Employeed,25001 to 50000,Post Graduate,3,13.0103,77.5796,560080,No,Negative ,No,320,Taco Bell
+26,Male,Prefer not to say,Self Employeed,More than 50000,Post Graduate,2,13.0103,77.5796,560080,Yes,Positive,Yes,321,McDonald’s
+21,Male,Married,Employee,More than 50000,Ph.D,3,12.9306,77.5434,560085,Yes,Positive,Yes,322,Wendy's
+29,Male,Single,Employee,25001 to 50000,Graduate,3,13.0641,77.5931,560092,No,Negative ,No,323,Taco Bell
+22,Male,Single,Student,No Income,Graduate,3,13.0158,77.539,560096,Yes,Positive,Yes,324,Taco Bell
+24,Male,Single,Student,No Income,Graduate,2,12.9561,77.5921,560027,Yes,Positive,Yes,325,Wendy's
+27,Male,Married,Employee,25001 to 50000,Graduate,2,12.8845,77.6036,560076,Yes,Positive,Yes,326,KFC
+23,Female,Single,Student,No Income,Post Graduate,3,12.9369,77.6407,560095,No,Positive,No,327,Taco Bell
+32,Male,Married,Employee,More than 50000,Post Graduate,6,12.9369,77.6407,560095,Yes,Positive,Yes,328,Pizza Hut
+22,Female,Single,Student,No Income,Graduate,2,12.9369,77.6407,560095,Yes,Positive,Yes,329,Pizza Hut
+22,Female,Single,Employee,25001 to 50000,Graduate,4,12.8845,77.6036,560076,Yes,Positive,Yes,330,Burger King
+26,Male,Married,Employee,More than 50000,Graduate,4,12.9048,77.6821,560036,Yes,Positive,Yes,331,Taco Bell
+25,Female,Single,Student,No Income,Ph.D,3,12.9048,77.6821,560036,Yes,Positive,Yes,332,Wendy's
+20,Male,Single,Student,No Income,Graduate,2,12.9261,77.6221,560034,Yes,Positive,Yes,333,Burger King
+29,Male,Married,Employee,25001 to 50000,Graduate,4,12.9261,77.6221,560034,No,Negative ,No,334,Wendy's
+23,Female,Single,Student,No Income,Graduate,1,12.977,77.5773,560009,Yes,Positive,Yes,335,Wendy's
+25,Male,Single,Self Employeed,More than 50000,Graduate,2,12.9783,77.6408,560038,Yes,Positive,Yes,336,Pizza Hut
+29,Female,Married,Employee,25001 to 50000,Graduate,4,12.9783,77.6408,560038,No,Negative ,No,337,Wendy's
+27,Male,Married,Self Employeed,25001 to 50000,Graduate,6,12.9217,77.5936,560041,No,Positive,No,338,Wendy's
+25,Male,Single,Self Employeed,10001 to 25000,Graduate,3,13.0206,77.6479,560043,Yes,Positive,Yes,339,Burger King
+21,Male,Single,Student,No Income,Graduate,2,13.0012,77.5995,560046,No,Negative ,No,340,McDonald’s
+23,Male,Single,Student,No Income,Graduate,3,13.0223,77.7132,560049,Yes,Positive,Yes,341,Wendy's
+24,Female,Single,Employee,10001 to 25000,Post Graduate,4,12.9337,77.59,560011,Yes,Positive,Yes,342,KFC
+22,Male,Married,Self Employeed,10001 to 25000,School,3,12.982,77.6256,560008,Yes,Negative ,Yes,343,McDonald’s
+28,Male,Married,Employee,25001 to 50000,Post Graduate,5,13.0262,77.62,560045,Yes,Positive,Yes,344,Taco Bell
+26,Male,Single,Employee,10001 to 25000,Graduate,2,12.9217,77.5936,560041,No,Negative ,No,345,Wendy's
+22,Female,Single,Employee,25001 to 50000,Graduate,4,12.8845,77.6036,560076,Yes,Positive,Yes,346,Taco Bell
+26,Male,Married,Employee,More than 50000,Graduate,4,12.9048,77.6821,560036,Yes,Positive,Yes,347,McDonald’s
+25,Female,Single,Student,No Income,Ph.D,3,12.9048,77.6821,560036,Yes,Positive,Yes,348,Taco Bell
+20,Male,Single,Student,No Income,Graduate,2,12.9261,77.6221,560034,Yes,Positive,Yes,349,Taco Bell
+29,Male,Married,Employee,25001 to 50000,Graduate,4,12.9261,77.6221,560034,No,Negative ,No,350,Wendy's
+23,Female,Single,Student,No Income,Graduate,1,12.977,77.5773,560009,Yes,Positive,Yes,351,Wendy's
+25,Male,Single,Self Employeed,More than 50000,Graduate,2,12.9783,77.6408,560038,Yes,Positive,Yes,352,Wendy's
+29,Female,Married,Employee,25001 to 50000,Graduate,4,12.9783,77.6408,560038,No,Positive,No,353,McDonald’s
+27,Male,Married,Self Employeed,25001 to 50000,Graduate,6,12.9217,77.5936,560041,No,Positive,No,354,KFC
+25,Male,Single,Self Employeed,10001 to 25000,Graduate,3,13.0206,77.6479,560043,Yes,Positive,Yes,355,Burger King
+21,Male,Single,Student,No Income,Graduate,2,13.0012,77.5995,560046,No,Positive,No,356,KFC
+24,Male,Single,Student,No Income,Post Graduate,2,12.9706,77.6529,560075,Yes,Positive,Yes,357,Taco Bell
+26,Female,Married,Self Employeed,10001 to 25000,Graduate,5,12.9706,77.6529,560075,No,Negative ,No,358,Burger King
+32,Male,Married,Employee,25001 to 50000,Graduate,3,12.9706,77.6529,560075,Yes,Positive,Yes,359,Wendy's
+29,Male,Single,Self Employeed,More than 50000,Graduate,6,12.8845,77.6036,560076,Yes,Positive,Yes,360,Wendy's
+21,Male,Single,Student,No Income,Graduate,5,12.9783,77.6408,560038,Yes,Positive,Yes,361,Burger King
+24,Female,Single,Self Employeed,25001 to 50000,Post Graduate,3,13.0103,77.5796,560080,No,Negative ,No,362,Taco Bell
+26,Male,Prefer not to say,Self Employeed,More than 50000,Post Graduate,2,13.0103,77.5796,560080,Yes,Positive,Yes,363,KFC
+31,Male,Married,Employee,More than 50000,Ph.D,3,12.9306,77.5434,560085,Yes,Positive,Yes,364,McDonald’s
+29,Male,Single,Employee,25001 to 50000,Graduate,3,13.0641,77.5931,560092,No,Negative ,No,365,Burger King
+22,Male,Single,Student,No Income,Graduate,3,13.0158,77.539,560096,Yes,Positive,Yes,366,KFC
+24,Male,Single,Student,No Income,Graduate,2,12.9561,77.5921,560027,Yes,Positive,Yes,367,KFC
+27,Male,Married,Employee,25001 to 50000,Graduate,2,12.8845,77.6036,560076,Yes,Positive,Yes,368,Wendy's
+23,Female,Single,Student,No Income,Post Graduate,3,12.9369,77.6407,560095,No,Positive,No,369,Pizza Hut
+30,Male,Married,Employee,More than 50000,Post Graduate,6,12.9369,77.6407,560095,Yes,Positive,Yes,370,Wendy's
+22,Female,Single,Student,No Income,Graduate,2,12.9369,77.6407,560095,Yes,Positive,Yes,371,KFC
+28,Male,Married,Employee,25001 to 50000,Graduate,3,12.9369,77.6407,560095,Yes,Positive,Yes,372,Taco Bell
+23,Female,Single,Student,No Income,Post Graduate,2,13.0158,77.539,560096,Yes,Positive,Yes,373,Wendy's
+30,Male,Married,Self Employeed,More than 50000,Graduate,1,13.0809,77.5565,560097,No,Negative ,No,374,KFC
+21,Male,Single,Student,No Income,Graduate,3,13.0641,77.5931,560092,Yes,Negative ,Yes,375,McDonald’s
+26,Female,Married,Employee,Below Rs.10000,Graduate,6,12.9859,77.6713,560093,No,Negative ,No,376,Taco Bell
+25,Male,Single,Self Employeed,More than 50000,School,3,12.9859,77.6713,560093,Yes,Positive,Yes,377,McDonald’s
+31,Male,Prefer not to say,Employee,Below Rs.10000,Graduate,1,12.9866,77.4904,560091,No,Negative ,No,378,Burger King
+23,Female,Single,Employee,25001 to 50000,Post Graduate,2,12.9847,77.5491,560100,Yes,Positive,Yes,379,McDonald’s
+22,Male,Single,Student,Below Rs.10000,Post Graduate,4,12.985,77.5533,560010,Yes,Positive,Yes,380,Burger King
+27,Female,Married,Employee,More than 50000,Post Graduate,2,12.9299,77.6848,560103,Yes,Positive,Yes,381,Wendy's
+22,Male,Single,Student,No Income,Graduate,3,12.977,77.5773,560009,Yes,Positive,Yes,382,Wendy's
+24,Female,Single,Student,No Income,Post Graduate,3,12.9828,77.6131,560042,Yes,Positive,Yes,383,Pizza Hut
+23,Female,Single,Student,No Income,Post Graduate,2,12.9766,77.5993,560001,Yes,Positive,Yes,384,Wendy's
+23,Female,Single,Student,No Income,Post Graduate,4,12.9854,77.7081,560048,Yes,Positive,Yes,385,McDonald’s
+22,Female,Single,Student,No Income,Post Graduate,5,12.985,77.5533,560010,Yes,Positive,Yes,386,Taco Bell
+23,Male,Single,Student,Below Rs.10000,Post Graduate,2,12.977,77.5773,560009,Yes,Positive,Yes,387,Wendy's
+23,Male,Single,Student,No Income,Post Graduate,5,12.8988,77.5764,560078,Yes,Positive,Yes,388,Burger King

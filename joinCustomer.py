@@ -5,7 +5,7 @@ import random
 #df_customer = pd.read_csv('datasets/onlinefood_with_customer_id.csv')
 
 # Define the list of fast food options
-#fast_food_options = ["KFC", "McDonald's", "Burger King", "Wendy's", "Taco Bell", "Pizza Hut"]
+#fast_food_options = ["KFC", "McDonald’s", "Burger King", "Wendy's", "Taco Bell", "Pizza Hut"]
 
 # Add the favorite_fastfood column with random values
 #df_customer['favorite_fastfood'] = [random.choice(fast_food_options) for _ in range(len(df_customer))]
@@ -17,7 +17,7 @@ import random
 
 # Load the FastFoodNutritionMenuV2 CSV file
 df_fastfood = pd.read_csv('datasets/FastFoodNutritionMenuV2.csv')
-df_customer = pd.read_csv('datasets/onlinefood_with_customer_id.csv')
+df_customer = pd.read_csv('datasets/onlinefood_with_#customer_id.csv')
 
 #mette _ negli spazi nei nomi delle colonne
 df_customer.columns = df_customer.columns.str.replace(" ", "_")
