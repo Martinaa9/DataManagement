@@ -8,20 +8,15 @@ Fast Food Nutrition Menu Dataset columns:
 
 Fast Food Restaurants Dataset columns:
 - id
-- dateAdded
-- dateUpdated
 - address
 - categories
 - city
 - country
-- keys
 - latitude
 - longitude
 - name
 - postalCode
 - province
-- sourceURLs
-- websites
 
 Joined Table columns:
 - Company
@@ -31,16 +26,11 @@ Joined Table columns:
 - Carbs
 - Protein
 - id
-- dateAdded
-- dateUpdated
 - address
 - categories
 - city
 - country
-- keys
 - latitude
 - longitude
 - postalCode
 - province
-- sourceURLs
-- websites
