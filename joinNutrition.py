@@ -70,7 +70,10 @@ def calcola_valori_nutrizionali(ingredienti):
 # Applichiamo la funzione a ogni riga del dataset
 df_indian_food[["total_calories", "total_protein", "total_fat", "total_carbs"]] = df_indian_food["ingredients"].apply(lambda x: pd.Series(calcola_valori_nutrizionali(x)))
 
-# Salviamo il nuovo dataset con i valori nutrizionali calcolati
-df_indian_food.to_csv("cibo_con_valori_nutrizionali.csv", index=False)
+#eliminiamo state come colonna
+df_indian_food = df_indian_food.drop(columns=["state"])
 
-print("Join completato! Il file è stato salvato come 'cibo_con_valori_nutrizionali.csv'")
+# Salviamo il nuovo dataset con i valori nutrizionali calcolati
+df_indian_food.to_csv("food_clean.csv", index=False)
+
+print("Join completato! Il file è stato salvato come 'food_clean.csv'")

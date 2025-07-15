@@ -1,0 +1,1319 @@
+food_key,ingredients,diet,flavor_profile,course,region,total_calories,total_protein,total_fat,total_carbs,company
+balu shahi,"flour, yogurt, oil, sugar",vegetarian,sweet,dessert,east,18,1,2,2,
+boondi,"flour, ghee, sugar",vegetarian,sweet,dessert,west,17,1,2,2,
+gajar ka halwa,"carrots, milk, sugar, ghee, cashews, raisins",vegetarian,sweet,dessert,north,22,1,2,3,
+ghevar,"flour, ghee, kewra, milk, butter, sugar, almonds, pistachio, saffron, cardamom",vegetarian,sweet,dessert,west,43,3,4,5,
+gulab jamun,"milk powder, flour, baking powder, ghee, milk, sugar, water",vegetarian,sweet,dessert,east,23,1,2,2,
+imarti,"sugar syrup, flour",vegetarian,sweet,dessert,east,5,1,1,1,
+jalebi,"maida, flour, baking soda, vinegar, curd, water, turmeric, saffron, cardamom",vegetarian,sweet,dessert,north,11,1,1,2,
+kaju katli,"cashews, ghee, cardamom, sugar",vegetarian,sweet,dessert,-1,25,1,3,3,
+kalakand,"milk, cheese, sugar",vegetarian,sweet,dessert,east,6,1,1,2,
+kheer,"milk, rice, sugar, almonds, pistachio",vegetarian,sweet,dessert,-1,20,1,2,3,
+laddu,"flour, ghee, sugar",vegetarian,sweet,dessert,-1,17,1,2,2,
+lassi,"yogurt, milk, nuts, sugar",vegetarian,sweet,dessert,north,12,1,1,2,
+nankhatai,"flour, besan, ghee, sugar, yoghurt, green cardamom",vegetarian,sweet,dessert,-1,17,1,2,2,
+petha,"pumpkin, sugar, lime, alum powder",vegetarian,sweet,dessert,north,9,1,1,2,
+phirni,"rice, sugar, nuts",vegetarian,sweet,dessert,east,15,1,1,2,
+rabri,"condensed milk, sugar, cardamom, nuts",vegetarian,sweet,dessert,north,19,1,2,3,
+sheera,"semolina, ghee, nuts, milk",vegetarian,sweet,dessert,west,16,1,2,1,
+singori,"khoa, coconut, molu leaf",vegetarian,sweet,dessert,north,6,1,1,1,
+sohan halwa,"flour, ghee, cashews, almonds",vegetarian,sweet,dessert,north,25,1,3,1,
+sohan papdi,"flour, ghee, sugar, milk, cardamom",vegetarian,sweet,dessert,west,24,1,2,4,
+chhena jalebi,"cheese, sugar, ghee",vegetarian,sweet,dessert,east,14,1,2,2,
+chhena kheeri,"cheese, sugar, milk",vegetarian,sweet,dessert,east,6,1,1,2,
+chhena poda,"sugar, cheese",vegetarian,sweet,dessert,east,6,1,1,2,
+cham cham,"flour, cream, sugar, saffron, lemon juice, coconut",vegetarian,sweet,dessert,east,16,1,1,2,
+kheer sagar,"cheese, condensed milk, sugar, saffron, cardamom",vegetarian,sweet,dessert,east,13,1,1,3,
+ledikeni,"cheese, sugar, ghee",vegetarian,sweet,dessert,east,14,1,2,2,
+lyangcha,"flour, milk powder, sugar syrup",vegetarian,sweet,dessert,north east,10,1,1,1,
+malapua,"yogurt, flour, ghee, fennel seeds",vegetarian,sweet,dessert,north,14,1,2,1,
+mihidana,"flour, sugar, ghee",vegetarian,sweet,dessert,east,17,1,2,2,
+misti doi,"milk, jaggery",vegetarian,sweet,dessert,east,1,1,1,1,
+pantua,"cheese, sugar, ghee, flour",vegetarian,sweet,dessert,east,18,1,2,2,
+pithe,flour,vegetarian,sweet,dessert,north east,5,1,1,1,
+rasabali,"cheese, sweetened milk",vegetarian,sweet,dessert,east,2,1,1,1,
+ras malai,"cheese, milk, pistachio",vegetarian,sweet,dessert,east,8,1,1,1,
+rasgulla,"cheese, sugar, cardamom",vegetarian,sweet,dessert,east,12,1,1,3,
+sandesh,"milk, sugar, saffron, cardamom",vegetarian,sweet,dessert,east,11,1,1,3,
+adhirasam,"flour, jaggery, ghee, oil, elachi",vegetarian,sweet,dessert,east,22,1,3,1,
+ariselu,"flour, jaggery, ghee",vegetarian,sweet,dessert,south,13,1,2,1,
+bandar laddu,"besan, jaggery, cardamom , ghee, cashews ,raisins, syrup, sugar",vegetarian,sweet,dessert,south,31,1,3,5,
+chikki,"peanuts, jaggery",vegetarian,sweet,dessert,west,6,1,1,1,
+dharwad pedha,"milk, sugar, milk",vegetarian,sweet,dessert,south,5,1,1,2,
+double ka meetha,"bread, milk",vegetarian,sweet,dessert,south,3,1,1,1,
+gavvalu,"flour, sugar, salt, ghee, semolina",vegetarian,sweet,dessert,south,17,1,2,2,
+kakinada khaja,"flour, sugar",vegetarian,sweet,dessert,south,9,1,1,2,
+kuzhi paniyaram,"black lentils, rice",vegetarian,sweet,dessert,south,4,1,1,1,
+mysore pak,"flour, semolina, mung bean, jaggery, coconut, milk powder, sugar, ghee",vegetarian,sweet,dessert,south,28,1,2,3,
+obbattu holige,"flour, turmeric, coconut, chickpeas, jaggery, ghee, cardamom",vegetarian,sweet,main course,south,25,1,3,3,
+palathalikalu,"flour, milk",vegetarian,sweet,dessert,south,5,1,1,1,
+pongal,"rice, jaggery, cashews, ghee",vegetarian,sweet,dessert,south,18,1,2,2,
+pootharekulu,"flour, sugar, ghee",vegetarian,sweet,dessert,south,17,1,2,2,
+qubani ka meetha,"apricots, syrup",vegetarian,sweet,dessert,south,5,1,1,2,
+sheer korma,"pudding, milk",vegetarian,sweet,dessert,south,3,1,1,1,
+unni appam,"flour, banana, jaggery, coconut",vegetarian,sweet,dessert,south,11,1,1,1,
+kajjikaya,"flour, jaggery, coconut",vegetarian,sweet,dessert,south,10,1,1,1,
+anarsa,"flour, jaggery, khus-khus seeds",vegetarian,sweet,dessert,west,5,1,1,1,
+basundi,"sugar, milk, nuts",vegetarian,sweet,dessert,west,12,1,1,2,
+dhondas,"cucumber, rava",vegetarian,sweet,dessert,west,0,0,0,0,
+doodhpak,"milk, rice, sugar, almonds,cashews",vegetarian,sweet,dessert,west,20,1,2,3,
+mahim halwa,"semolina, sugar",vegetarian,sweet,dessert,west,5,0,0,1,
+modak,"flour, coconut, jaggery",vegetarian,sweet,dessert,west,10,1,1,1,
+shankarpali,"sugar, ghee, flour, semolina",vegetarian,sweet,dessert,west,17,1,2,2,
+shrikhand,"curd, sugar, saffron, cardamom",vegetarian,sweet,dessert,west,11,1,1,3,
+sutar feni,"maida, sugar, ghee",vegetarian,sweet,dessert,west,13,0,1,1,
+maach jhol,"fish, potol, tomato, chillies, ginger, garlic",non vegetarian,spicy,main course,north east,16,1,1,3,
+pork bharta,"pork, onions, chillies, ginger , garlic",non vegetarian,spicy,main course,north east,22,1,2,3,
+chak hao kheer,"rice, milk, sugar, cardamom",vegetarian,sweet,dessert,north east,15,1,1,4,
+galho,"rice, axone, salt, water, chillies, pork",non vegetarian,spicy,main course,north east,18,1,2,3,
+aloo gobi,"cauliflower, potato, garam masala, turmeric, curry leaves",vegetarian,spicy,main course,north,7,1,1,2,
+aloo tikki,"flour, potato, bread , garam masala, salt",vegetarian,spicy,main course,north,12,1,1,2,
+aloo matar,"potato, peas, chillies, ginger, garam masala, garlic",vegetarian,spicy,main course,north,19,2,1,4,
+aloo methi,"potato, fenugreek leaves, chillies, salt, oil",vegetarian,bitter,main course,north,15,1,2,2,
+aloo shimla mirch,"potato, shimla mirch, garam masala, amchur powder, salt",vegetarian,spicy,main course,north,5,1,1,1,
+bhatura,"chole, rava, yogurt, flour, baking soda",vegetarian,spicy,main course,north,5,1,1,1,
+bhindi masala,"ladies finger, garam masala, kasuri methi, tomatoes, chillies",vegetarian,spicy,main course,north,12,1,1,3,
+biryani,"chicken , rice, star anise, sweet, chillies",non vegetarian,spicy,main course,south,13,1,1,3,
+butter chicken,"chicken, yogurt, cream, garam masala, cashews ,nuts, butter",non vegetarian,spicy,main course,north,30,3,3,3,
+chana masala,"chicken, tomato, garam masala, ginger, onions, oil",vegetarian,spicy,main course,north,21,1,2,2,
+chapati,"flour, oil, water",vegetarian,-1,main course,west,14,1,2,1,
+chicken razala,"chicken, dahi, sesame seeds, garam masala , cashews ,nuts, saffron",non vegetarian,spicy,main course,east,26,2,3,2,
+chicken tikka masala,"bread, tomato ,  chicken, heavy cream, garam masala",non vegetarian,spicy,main course,north,11,1,1,2,
+chicken tikka,"chicken, bread, flour, garam masala ,  eggs",non vegetarian,spicy,starter,north,17,2,1,3,
+chole bhature,"chole, bhatura, garam masala, cardamom, cinnamon",vegetarian,spicy,main course,north,11,1,1,3,
+daal baati churma,"moong dal, masoor dal, chana dal,flour, almond",vegetarian,spicy,main course,west,9,1,1,1,
+daal puri,"moong dal, garam masala , garlic, chillies,flour",vegetarian,spicy,main course,east,20,2,1,4,
+dal makhani ,"beans, urad dal, cream, garam masala, chillies",vegetarian,sweet,main course,north,13,1,1,3,
+dal tadka,"pigeon peas, garam masala, ginger, onions, kasuri methi",vegetarian,spicy,main course,north,9,1,1,2,
+dum aloo,"potatoes, garam masala, cashews, nuts, kasuri methi, tomatoes",vegetarian,spicy,main course,north,18,1,2,2,
+poha,"rice , potato, curry leaves, chillies, lemon juice",vegetarian,spicy,snack,west,11,1,1,3,
+fara,"flour, arhar dal, white urad dal, garam masala",vegetarian,spicy,snack,central,10,1,1,2,
+kachori,"moong dal, rava, garam masala, dough, fennel seeds",vegetarian,spicy,snack,north,5,1,1,1,
+kadai paneer,"cheese, chillies, gravy, garam masala, cashews, nuts",vegetarian,spicy,main course,north,25,2,2,3,
+kadhi pakoda,"besan, garam masala , flour, ginger, curry leaves",vegetarian,spicy,main course,north,14,1,1,3,
+karela bharta,"bitter gourd, fennel, garam masala , chillies, amchur powder",vegetarian,bitter,main course,north,11,1,1,3,
+khichdi,"moong dal, peas, ginger, tomato, chillies",vegetarian,spicy,main course,-1,11,1,1,3,
+kofta,"paneer, potato, cream, flour, garam masala",vegetarian,spicy,main course,north,11,1,1,2,
+kulfi falooda,"syrup, falooda sev, almonds, cashews,nuts, saffron, sugar",vegetarian,sweet,dessert,-1,26,1,2,3,
+lauki ke kofte,"bottle gourd, garam masala, flour, ginger, chillies",vegetarian,spicy,main course,north,19,2,1,4,
+lauki ki subji,"bottle gourd, coconut ,oil, garam masala, ginger, chillies",vegetarian,spicy,main course,-1,29,1,3,4,
+litti chokha,"flour, tomato, nigella seeds, chillies",vegetarian,spicy,main course,north,11,1,1,2,
+makki di roti sarson da saag,"palak, makki atta, mustard green, garam masala, ginger",vegetarian,spicy,main course,north,9,1,1,2,
+misi roti,"flour, chillies",vegetarian,spicy,main course,north,11,1,1,2,
+mushroom do pyaza,"mushroom, malai, garam masala, ginger, capsicum",vegetarian,spicy,main course,north,9,1,1,2,
+mushroom matar,"coconut, milk,  peas, mushrooms, garam masala, tomatoes",vegetarian,spicy,main course,north,12,1,1,2,
+naan,"flour, honey, butter, garlic",vegetarian,-1,main course,north,19,3,1,4,
+navrattan korma,"beans, potatoes, khus khus, low fat, garam masala",vegetarian,spicy,main course,north,6,1,1,2,
+palak paneer,"cheese, palak, cream, garam masala, butter",vegetarian,spicy,main course,north,15,2,2,3,
+paneer butter masala,"paneer, whipping cream, garam masala, cashews ,nuts, butter",vegetarian,spicy,main course,north,25,3,3,3,
+paneer tikka masala,"paneer,  yogurt, garam masala, cream, peppers",vegetarian,spicy,main course,north,8,1,1,2,
+pani puri,"kala chana, potatoes, boondi, sev, lemon juice",vegetarian,spicy,snack,-1,1,1,1,1,
+papad,"urad dal, sev, lemon juice, tomatoes",vegetarian,spicy,snack,-1,1,1,1,1,
+paratha,"flour, butter, potatoes, coriander",vegetarian,spicy,main course,north,12,2,1,2,
+pattor,"arbi ke patte, sesame seeds, gur, flour, imli",vegetarian,spicy,main course,west,10,1,1,1,
+pindi chana,"fennel, tea bags, tomatoes, kasuri methi, cinnamon",vegetarian,spicy,main course,north,1,1,1,1,
+rajma chaval,"beans, garam masala , ginger, tomatoes,  oil",vegetarian,spicy,main course,north,18,1,2,2,
+rongi,"garam masala, tomatoes, kasuri methi, cinnamon, oil",vegetarian,-1,main course,north,15,1,2,2,
+samosa,"potatoes, peas, garam masala, ginger, dough",vegetarian,spicy,snack,-1,9,1,1,2,
+shahi paneer,"cheese, malai, garam masala, ginger, tomatoes",vegetarian,spicy,main course,north,10,1,1,2,
+shahi tukra,"water, milk, bread, saffron, almonds",vegetarian,sweet,dessert,south,10,1,1,1,
+vegetable jalfrezi,"corn, beans, garam masala, ginger, carrots",vegetarian,spicy,main course,north,11,1,1,2,
+tandoori chicken,"yogurt, garam masala, kasuri methi, marinade, oil",non vegetarian,spicy,main course,north,15,1,2,2,
+tandoori fish tikka,"flour, biryani masala powder, yogurt, fish, peppers",non vegetarian,spicy,starter,north,7,1,1,1,
+attu,"flour, arhar dal, ginger, kala jeera, chillies",vegetarian,spicy,snack,south,14,1,1,3,
+bisi bele bath,"peas, chana dal, urad dal, beans",vegetarian,spicy,main course,south,5,1,1,1,
+currivepillai sadam ,"chana dal, urad dal, coconut, sesame seeds, curry leaves",vegetarian,spicy,main course,south,17,1,1,2,
+dosa,"chana dal, urad dal, whole urad dal, rice, rock salt",vegetarian,spicy,snack,south,8,1,1,2,
+idiappam,"flour, water, coconut",vegetarian,spicy,snack,south,10,1,1,1,
+idli,"split urad dal, urad dal, rice, thick poha, rock salt",vegetarian,spicy,snack,south,4,1,1,1,
+kanji,"carrots, yellow mustard, chillies, black salt",vegetarian,-1,snack,south,7,1,1,2,
+kaara kozhambu,"oil, drumstick, tamarind , sambar, tomatoes",vegetarian,spicy,main course,south,10,1,2,1,
+keerai kootu,"moong dal, chana dal, spinach, urad dal, coconut ,oil",vegetarian,spicy,main course,south,19,1,2,2,
+keerai masiyal,"urad dal, curry leaves, sugar, mustard seeds, spinach",vegetarian,spicy,main course,south,6,1,1,2,
+keerai sadam,"greens, tomatoes, mustard seeds, fenugreek seeds",vegetarian,spicy,main course,south,1,1,1,1,
+keerai poriyal,"amaranth leaves, split urad dal, mustard seeds, coconut, chillies",vegetarian,spicy,main course,south,12,1,1,2,
+beef fry,"beef, coconut, garam masala, curry leaves, chillies",non vegetarian,spicy,main course,south,21,1,2,4,
+kootu,"chana dal, urad dal, potatoes, beans, peas",vegetarian,spicy,main course,south,5,1,1,1,
+kos kootu,"moong dal, chana dal, cabbage, tamarind, curry leaves",vegetarian,spicy,main course,south,5,1,0,1,
+koshambri,"moong dal, cucumber, curry leaves, chillies, lemon juice",vegetarian,spicy,main course,south,8,1,1,2,
+kothamali sadam,"chana dal, urad dal, gooseberry,rice, curry leaves",vegetarian,spicy,main course,south,9,1,1,2,
+kuzhakkattai,"oil, rice, jaggery, coconut",vegetarian,spicy,main course,south,19,1,2,2,
+kuzhambu,"onions, urad dal, drumsticks, tomatoes, curry leaves",vegetarian,spicy,main course,south,2,1,1,1,
+masala dosa,"chana dal, urad dal, potatoes, rice, thick poha",vegetarian,spicy,snack,south,8,1,1,2,
+pachadi,"coconut ,oil, cucumber, curd, curry leaves, mustard seeds",vegetarian,-1,main course,south,16,1,2,1,
+paniyaram,"yogurt, ginger, curry leaves, baking soda, chillies",vegetarian,-1,main course,south,11,1,1,3,
+papadum,"lentils, peppers, oil",vegetarian,spicy,snack,south,10,1,2,1,
+paravannam,"rice,  jaggery, milk",vegetarian,spicy,main course,south,4,1,1,1,
+payasam,"rice, cashews, nuts, milk, raisins, sugar",vegetarian,sweet,dessert,south,23,1,2,4,
+paruppu sadam,"arhar dal, sambar powder, tomatoes, curry leaves, fennel seeds",vegetarian,-1,main course,south,2,1,1,1,
+pesarattu,"beans, flour",vegetarian,spicy,snack,south,5,1,1,1,
+poriyal,"chana dal, urad dal, beans, coconut, mustard",vegetarian,spicy,main course,south,10,1,1,2,
+puli sadam,"urad dal, lemon juice, tamarind, rice, curry leaves",vegetarian,-1,main course,south,5,1,1,2,
+rasam,"tomatoes, curry leaves, garlic, mustard seeds, water",vegetarian,spicy,main course,south,6,1,1,2,
+puttu,"flour, sugar, coconut",vegetarian,-1,main course,south,14,1,1,2,
+sambar,"peas, eggs, drumsticks, sambar powder, tamarind",vegetarian,spicy,main course,south,3,1,1,1,
+sandige,"thin rice flakes, sesame seeds, curry leaves",vegetarian,-1,main course,south,7,1,1,1,
+sevai,"sevai, rice, steamer",vegetarian,-1,main course,south,4,1,1,1,
+thayir sadam,"urad dal, curd, oil, ginger, curry leaves, sesame seeds",vegetarian,-1,main course,south,19,1,2,2,
+theeyal,"coconut, beans, masala, sesame seed, oil, tamarind",vegetarian,-1,main course,south,15,1,2,1,
+uttapam,"chana dal, urad dal, thick poha, tomatoes, butter",vegetarian,spicy,snack,south,12,2,1,2,
+vada,"urad dal, ginger, curry leaves, chillies, peppers",vegetarian,spicy,snack,south,11,1,1,3,
+chicken varuval,"meat curry powder, chicken , ginger, tomatoes, cinnamon",non vegetarian,spicy,main course,south,7,1,1,1,
+upma,"chana dal, urad dal, ginger, curry leaves, sugar",vegetarian,spicy,snack,-1,13,1,1,3,
+amti,"kala masala, arhar dal, curry leaves, sesame seeds,  water",vegetarian,spicy,main course,west,7,1,1,1,
+zunka,"flour, mustard, garlic, turmeric, chillies",vegetarian,spicy,main course,west,15,2,1,3,
+kolim jawla,"baingan, fish, coconut ,oil, ginger",non vegetarian,spicy,main course,west,20,1,2,2,
+saath,"urad dal, potatoes, flour, sooji",vegetarian,spicy,main course,west,5,1,1,1,
+bajri no rotlo,"flour, water",vegetarian,spicy,main course,west,5,1,1,1,
+coconut vadi,"condensed milk, mawa, coconut, almonds, cashews",vegetarian,sweet,dessert,west,19,1,2,2,
+bhakri,"flour, sesame seeds",vegetarian,-1,main course,west,10,1,1,1,
+bombil fry,"bombay duck, malvani masala, flour, bombay rava, chillies",non vegetarian,spicy,main course,west,11,1,1,2,
+chakali,"flour, turmeric, chillies",vegetarian,spicy,snack,west,11,1,1,2,
+copra paak,"condensed milk, ice cream, coconut, red food coloring, coconut",vegetarian,-1,main course,west,10,1,1,1,
+daal dhokli,"flour, dal, kokum, gur",vegetarian,spicy,main course,west,5,1,1,1,
+dahi vada,"urad dal, bhuna chana, garam masala, dates, tamarind",vegetarian,-1,snack,west,8,1,1,2,
+dalithoy,"arhar dal, coconut ,oil, curry leaves, sesame seeds,  chillies",vegetarian,-1,main course,west,28,1,3,3,
+dhokla,"rava, coconut,flour, mustard, sesame seeds",vegetarian,spicy,snack,west,16,1,2,2,
+gatta curry,"yogurt, besan, sauce, garam masala , flour",vegetarian,spicy,main course,west,10,1,1,2,
+gud papdi,"flour, jaggery,  butter, almonds",vegetarian,sweet,dessert,west,18,2,2,2,
+handwo,"bottle gourd, chana dal, cabbage, urad dal, cardamom,toor dal",vegetarian,spicy,snack,west,10,1,1,3,
+halvasan,"whole wheat rava, sesame seed, lemon juice, edible gum,  milk",vegetarian,sweet,dessert,west,1,1,1,1,
+jeera aloo,"chillies, lemon juice, potatoes",vegetarian,spicy,main course,west,7,1,1,2,
+kansar,"flour, cashews, oil",vegetarian,-1,main course,west,19,1,2,1,
+keri no ras,"mango, sugar",vegetarian,sour,main course,west,5,0,0,1,
+khakhra,"flour, milk, butter, low fat",vegetarian,spicy,snack,west,12,2,2,2,
+khandvi,"chillies, sesame seeds, flour, curry leaves",vegetarian,spicy,snack,west,17,1,2,3,
+kombdi vade,"flour, turmeric",vegetarian,spicy,snack,west,5,1,1,1,
+laapsi,"cinnamon, jaggery, butter, dry roasted",vegetarian,spicy,main course,central,8,2,1,2,
+koshimbir,"cucumber, carrots, tomatoes, cilantro",vegetarian,spicy,main course,west,1,1,1,1,
+methi na gota,"rava, flour, lemon juice, turmeric, curry leaves",vegetarian,bitter,main course,west,6,1,1,1,
+mohanthal,"water, pistachio, badam, flour, saffron",vegetarian,sweet,dessert,west,10,1,1,1,
+muthiya,"bottle gourd, flour, rava, sesame seeds",vegetarian,bitter,snack,west,10,1,1,1,
+patra,"arbi ke patte, sesame seeds, gur, flour, imli",vegetarian,spicy,snack,west,10,1,1,1,
+pav bhaji,"pav bhaji masala, gobi, potatoes, peas, oil, dinner rolls",vegetarian,spicy,main course,west,10,1,2,1,
+puri bhaji,"aloo, urad dal, mustard, ginger, curry leaves",vegetarian,spicy,main course,west,5,1,1,1,
+sabudana khichadi,"peanuts, sabudana, lemon juice, oil, curry leaves, chillies",vegetarian,spicy,snack,west,22,1,2,2,
+sev khamani,"khaman, pomegranate, sev, sugar, garlic, oil",vegetarian,spicy,main course,west,18,1,1,2,
+sev tameta,"sev, ginger, tomatoes, sugar",vegetarian,spicy,main course,west,8,1,1,2,
+namakpara,"flour, baking soda, peppers, oil",vegetarian,spicy,snack,west,14,1,2,1,
+sukhdi,"flour, gur, butter",vegetarian,sweet,dessert,west,12,2,1,2,
+surnoli,"rice, yogurt, jaggery, coconut",vegetarian,spicy,snack,west,10,1,1,2,
+thalipeeth,"flour, sesame seeds",vegetarian,spicy,main course,west,10,1,1,1,
+undhiyu,"potatoes, surti papdi, valor papdi, peas",vegetarian,spicy,main course,west,1,1,1,1,
+veg kolhapuri,"gobi, potatoes, beans, khus khus, coconut",vegetarian,spicy,main course,west,6,1,1,1,
+vindaloo,"chicken, coconut ,oil, wine ,vinegar, ginger, cinnamon",non vegetarian,spicy,main course,west,21,1,2,2,
+lilva kachori,"garlic , peas, ginger, lemon juice, flour",vegetarian,spicy,snack,west,13,1,1,3,
+mag dhokli,"beans, jaggery, chillies, oil, salt",vegetarian,spicy,snack,west,16,1,2,2,
+khichu,"flour, sesame seeds, baking soda, peanuts, oil",vegetarian,spicy,snack,west,25,1,3,1,
+thepla,"flour, coconut, oil, curry leaves",vegetarian,spicy,snack,west,20,1,2,2,
+farsi puri,"semolina, butter, oil, flour, peppers",vegetarian,-1,snack,west,21,2,2,2,
+khaman,"yogurt, coconut, sesame seeds, semolina,flour",vegetarian,spicy,snack,west,16,1,2,2,
+turiya patra vatana sabji,"ridge gourd, baking soda, sugar, coconut, peas",vegetarian,spicy,main course,west,11,1,1,2,
+churma ladoo,"flour, khus khus, sesame seeds, coconut, gur",vegetarian,sweet,dessert,west,16,1,2,2,
+cheera doi,"rice, mango, curd",vegetarian,sweet,dessert,east,4,1,1,1,
+gheela pitha,"rice, flour, jaggery, oranges,",vegetarian,sweet,dessert,north east,9,1,1,2,
+khar,"papaya, garam masala, sesame seeds, oil, fennel seeds",vegetarian,-1,main course,north east,20,1,2,2,
+kumol sawul,"rice, eggs, carrots, beetroot",non vegetarian,spicy,main course,north east,6,1,1,2,
+luchi,"maida, chicken, oil",vegetarian,-1,main course,east,12,1,2,0,
+alu pitika,"potatoes, oil, fish, chillies",non vegetarian,spicy,main course,north east,17,1,2,2,
+masor tenga,"ridge gourd, fish, lemon juice, tomatoes, oil",non vegetarian,spicy,main course,north east,12,1,2,1,
+bengena pitika,"brinjal, onions, salt, sesame seeds, coriander",vegetarian,-1,main course,north east,6,1,1,1,
+bilahi maas,"potatoes, garam masala, tomatoes, oil, cardamom",non vegetarian,-1,main course,north east,21,1,3,3,
+black rice,"rice, chicken, oil, almonds, garlic",non vegetarian,-1,main course,north east,26,1,2,2,
+brown rice,"rice, soy sauce, oil",vegetarian,-1,main course,-1,13,1,2,1,
+chingri malai curry,"coconut ,milk, lobster,chillies, ginger, onions",non vegetarian,spicy,main course,east,17,1,1,3,
+goja,"baking soda, butter, oil, flour",vegetarian,sweet,dessert,east,21,2,2,2,
+haq maas,"lamb, garam masala, curd, turmeric, cardamom",non vegetarian,spicy,main course,north east,11,1,1,3,
+chingri bhape,"coconut, prawns, curd, sesame seed, chillies",non vegetarian,-1,main course,east,12,1,1,2,
+kabiraji,"fish , besan, lemon juice, mint, ginger",non vegetarian,spicy,main course,east,6,1,1,1,
+khorisa,"fermented bamboo shoot, potatoes, ginger, green, oil",vegetarian,spicy,main course,north east,13,1,2,1,
+koldil chicken,"banana , chicken, chillies, oil, lemon juice",non vegetarian,spicy,main course,north east,19,1,2,2,
+konir dom,"aloo, tomatoes,  oil, bay leaf, cinnamon stick",non vegetarian,spicy,main course,north east,10,1,2,1,
+koldil duck,"flour, mutton, banana, oil, baking powder",non vegetarian,spicy,main course,north east,14,1,2,1,
+masor koni,"fish , pumpkin ,oil, turmeric, tomatoes",non vegetarian,spicy,main course,north east,13,1,2,1,
+mishti chholar dal,"chana dal, coconut, ginger, cinnamon, raisins",vegetarian,sweet,main course,east,16,1,1,3,
+pakhala,"curd, rice, curry leaves, chillies",vegetarian,-1,main course,east,11,1,1,3,
+pani pitha,"tea leaves, sesame seeds, coconut, rice",vegetarian,-1,main course,north east,15,1,1,2,
+payokh,"rice, water, sugar, butter, cardamom",vegetarian,sweet,dessert,north east,21,2,2,5,
+prawn malai curry,"coconut, milk, prawns, garlic, turmeric, sugar",non vegetarian,spicy,main course,east,15,1,1,3,
+red rice,"peppers, onions, butter, watercress, oil",vegetarian,-1,main course,-1,17,2,2,2,
+shukto,"beans, milk, bitter gourd, ridge gourd, banana, brinjal",vegetarian,spicy,main course,east,2,1,1,1,
+til pitha,"rice, sesame seeds, gur",vegetarian,sweet,dessert,north east,10,1,1,1,
+bebinca,"coconut , milk, eggs, yolks,  butter, flour",vegetarian,sweet,dessert,west,23,3,2,3,
+shufta,"cheese, dry dates, dried rose petals, pistachio, badam",vegetarian,sweet,dessert,north,7,1,1,1,
+mawa bati,"milk , dry fruits, arrowroot powder, flour, butter",vegetarian,sweet,dessert,central,12,2,2,2,
+pinaca,"rice, sesame seeds, coconut, peppers, ginger",vegetarian,sweet,dessert,west,18,1,2,2,
+hamburger,,,,,,250,12,9,31,mcdonald’s
+cheeseburger,,,,,,300,15,12,33,mcdonald’s
+double cheeseburger,,,,,,440,25,23,34,mcdonald’s
+mcdouble,,,,,,390,22,19,33,mcdonald’s
+ quarter pounder® with cheese,,,,,,510,29,26,40,mcdonald’s
+double quarter pounder® with cheese,,,,,,740,48,42,40,mcdonald’s
+big mac®,,,,,,540,25,29,45,mcdonald’s
+big n’ tasty®,,,,,,460,24,24,37,mcdonald’s
+big n’ tasty® with cheese,,,,,,510,27,28,38,mcdonald’s
+angus bacon & cheese,,,,,,790,45,39,63,mcdonald’s
+angus deluxe,,,,,,750,40,39,61,mcdonald’s
+angus mushroom & swiss,,,,,,770,44,40,59,mcdonald’s
+filet-o-fish®,,,,,,380,15,18,38,mcdonald’s
+mcchicken ®,,,,,,360,14,16,40,mcdonald’s
+mcrib ®,,,,,,500,22,26,44,mcdonald’s
+premium grilled chicken classic sandwich,,,,,,360,27,9,41,mcdonald’s
+premium crispy chicken classic sandwich,,,,,,510,24,22,56,mcdonald’s
+premium grilled chicken club sandwich,,,,,,460,35,17,43,mcdonald’s
+premium crispy chicken club sandwich,,,,,,620,31,29,57,mcdonald’s
+premium grilled chicken ranch blt sandwich,,,,,,380,31,10,41,mcdonald’s
+premium crispy chicken ranch blt sandwich,,,,,,540,27,23,56,mcdonald’s
+southern style crispy chicken sandwich,,,,,,400,24,17,39,mcdonald’s
+ranch snack wrap® (crispy),,,,,,340,14,17,33,mcdonald’s
+ranch snack wrap® (grilled),,,,,,270,18,10,26,mcdonald’s
+honey mustard snack wrap® (crispy),,,,,,330,14,16,34,mcdonald’s
+honey mustard snack wrap® (grilled),,,,,,260,18,9,27,mcdonald’s
+chipotle bbq snack wrap® (crispy),,,,,,330,14,15,35,mcdonald’s
+chipotle bbq snack wrap® (grilled),,,,,,260,18,9,28,mcdonald’s
+angus bacon & cheese snack wrap,,,,,,390,21,21,28,mcdonald’s
+angus chipotle bbq bacon,,,,,,800,45,39,66,mcdonald’s
+angus chipotle bbq bacon snack wrap,,,,,,400,21,22,30,mcdonald’s
+angus deluxe snack wrap,,,,,,410,20,25,27,mcdonald’s
+angus mushroom & swiss snack wrap,,,,,,430,22,26,27,mcdonald’s
+mac snack wrap,,,,,,330,15,19,26,mcdonald’s
+small french fries,,,,,,230,3,11,29,mcdonald’s
+medium french fries,,,,,,380,4,19,48,mcdonald’s
+large french fries,,,,,,500,6,25,63,mcdonald’s
+ketchup packet,,,,,,15,0,0,3,mcdonald’s
+salt packet,,,,,,0,0,0,0,mcdonald’s
+chicken mcnuggets® (4 piece),,,,,,190,9,12,12,mcdonald’s
+chicken mcnuggets® (6 piece),,,,,,280,13,18,18,mcdonald’s
+chicken mcnuggets® (10 piece),,,,,,470,22,30,30,mcdonald’s
+barbeque sauce,,,,,,50,0,0,12,mcdonald’s
+honey,,,,,,50,0,0,12,mcdonald’s
+hot mustard sauce,,,,,,60,1,2.5,9,mcdonald’s
+sweet ‘n sour sauce,,,,,,50,0,0,12,mcdonald’s
+chicken selects® premium breast strips (3 pc),,,,,,400,23,24,23,mcdonald’s
+chicken selects® premium breast strips (5 pc),,,,,,660,38,40,39,mcdonald’s
+spicy buffalo sauce,,,,,,60,0,6,1,mcdonald’s
+creamy ranch sauce,,,,,,170,0,18,2,mcdonald’s
+tangy honey mustard sauce,,,,,,60,0,2,10,mcdonald’s
+southwestern chipotle barbeque sauce,,,,,,60,0,0,15,mcdonald’s
+premium southwest salad with grilled chicken,,,,,,320,30,9,30,mcdonald’s
+premium southwest salad with crispy chicken,,,,,,430,26,20,38,mcdonald’s
+premium southwest salad (without chicken),,,,,,140,6,4.5,20,mcdonald’s
+premium bacon ranch salad with grilled chicken,,,,,,260,33,9,12,mcdonald’s
+premium bacon ranch salad with crispy chicken,,,,,,370,29,20,20,mcdonald’s
+premium bacon ranch salad (without chicken),,,,,,140,9,7,10,mcdonald’s
+premium caesar salad with grilled chicken,,,,,,220,30,6,12,mcdonald’s
+premium caesar salad with crispy chicken,,,,,,330,26,17,20,mcdonald’s
+premium caesar salad (without chicken),,,,,,90,7,4,9,mcdonald’s
+side salad,,,,,,20,1,0,4,mcdonald’s
+butter garlic croutons,,,,,,60,2,1.5,10,mcdonald’s
+snack size fruit & walnut salad,,,,,,210,4,8,31,mcdonald’s
+salad dressings,,,,,,,,,,mcdonald’s
+newman’s own® creamy southwest dressing,,,,,,100,1,6,11,mcdonald’s
+newman’s own® creamy caesar dressing,,,,,,190,2,18,4,mcdonald’s
+newman’s own® low fat balsamic vinaigrette,,,,,,40,0,3,4,mcdonald’s
+newman’s own® low fat family recipe italian dressing,,,,,,60,1,2.5,8,mcdonald’s
+newman’s own® ranch dressing,,,,,,170,1,15,9,mcdonald’s
+egg mcmuffin®,,,,,,300,18,12,30,mcdonald’s
+sausage mcmuffin®,,,,,,370,14,22,29,mcdonald’s
+sausage mcmuffin® with egg,,,,,,450,21,27,30,mcdonald’s
+english muffin,,,,,,160,5,3,27,mcdonald’s
+"bacon, egg & cheese biscuit (regular size biscuit)",,,,,,420,15,23,37,mcdonald’s
+"bacon, egg & cheese biscuit (large size biscuit)",,,,,,480,15,27,43,mcdonald’s
+sausage biscuit with egg (regular size biscuit),,,,,,510,18,33,36,mcdonald’s
+sausage biscuit with egg (large size biscuit),,,,,,570,18,37,42,mcdonald’s
+sausage biscuit (regular size biscuit),,,,,,430,11,27,34,mcdonald’s
+sausage biscuit (large size biscuit),,,,,,480,11,31,39,mcdonald’s
+southern style chicken biscuit (regular size biscuit),,,,,,410,17,20,41,mcdonald’s
+southern style chicken biscuit (large size biscuit),,,,,,470,17,24,46,mcdonald’s
+"steak, egg & cheese bagel",,,,,,660,33,33,56,mcdonald’s
+"bacon, egg & cheese mcgriddles®",,,,,,420,15,18,48,mcdonald’s
+"sausage, egg & cheese mcgriddles®",,,,,,560,20,32,48,mcdonald’s
+sausage mcgriddles®,,,,,,420,11,22,44,mcdonald’s
+big breakfast® (regular size biscuit),,,,,,740,28,48,51,mcdonald’s
+big breakfast® (large size biscuit),,,,,,800,28,52,56,mcdonald’s
+big breakfast with hotcakes (regular size biscuit),,,,,,1090,36,56,111,mcdonald’s
+big breakfast with hotcakes (large size biscuit),,,,,,1150,36,60,116,mcdonald’s
+sausage burrito,,,,,,300,12,16,26,mcdonald’s
+mcskillet™ burrito with sausage,,,,,,610,27,36,44,mcdonald’s
+hotcakes,,,,,,350,8,9,60,mcdonald’s
+hotcakes and sausage,,,,,,520,15,24,61,mcdonald’s
+hotcake syrup,,,,,,180,0,0,45,mcdonald’s
+whipped margarine (1 pat),,,,,,40,0,4.5,0,mcdonald’s
+hash brown,,,,,,150,1,9,15,mcdonald’s
+grape jam,,,,,,35,0,0,9,mcdonald’s
+strawberry preserves,,,,,,35,0,0,9,mcdonald’s
+"bacon, egg & cheese bagel",,,,,,560,24,27,56,mcdonald’s
+fruit & maple oatmeal,,,,,,290,5,4.5,57,mcdonald’s
+fruit & maple oatmeal without brown sugar,,,,,,260,5,4.5,48,mcdonald’s
+hamburger happy meal,,,,,,475,22,16,62,mcdonald’s
+4 piece chicken mcnuggets happy meal,,,,,,395,19,17,41,mcdonald’s
+6 piece chicken mcnuggets® happy meal,,,,,,475,24,22,46,mcdonald’s
+fruit ‘n yogurt parfait (7 oz),,,,,,160,4,2,31,mcdonald’s
+low fat caramel dip,,,,,,70,0,0.5,15,mcdonald’s
+vanilla reduced fat ice cream cone,,,,,,150,4,3.5,24,mcdonald’s
+kiddie cone,,,,,,45,1,1,8,mcdonald’s
+strawberry sundae,,,,,,280,6,6,49,mcdonald’s
+hot caramel sundae,,,,,,340,7,8,60,mcdonald’s
+hot fudge sundae,,,,,,330,8,10,54,mcdonald’s
+peanuts (for sundaes),,,,,,45,2,3.5,2,mcdonald’s
+mcflurry® with m&m’s® candies (12 fl oz cup),,,,,,710,15,25,105,mcdonald’s
+mcflurry® with oreo® cookies (12 fl oz cup),,,,,,580,13,19,89,mcdonald’s
+baked hot apple pie,,,,,,250,2,13,32,mcdonald’s
+cinnamon melts,,,,,,460,6,19,66,mcdonald’s
+mcdonaldland® cookies,,,,,,260,4,8,43,mcdonald’s
+chocolate chip cookie,,,,,,160,2,8,21,mcdonald’s
+oatmeal raisin cookie,,,,,,150,2,6,22,mcdonald’s
+sugar cookie,,,,,,160,2,7,21,mcdonald’s
+apple dippers with low fat caramel dip,,,,,,100,0,0.5,23,mcdonald’s
+chocolate mccafé® shake (12 fl oz cup),,,,,,580,11,17,94,mcdonald’s
+chocolate mccafé® shake (16 fl oz cup),,,,,,720,15,20,119,mcdonald’s
+chocolate mccafé® shake (22 fl oz cup),,,,,,880,18,24,147,mcdonald’s
+chocolate triple thick® shake (12 fl oz cup),,,,,,440,10,10,76,mcdonald’s
+chocolate triple thick® shake (16 fl oz cup),,,,,,580,13,14,102,mcdonald’s
+chocolate triple thick® shake (21 fl oz cup),,,,,,770,18,18,134,mcdonald’s
+chocolate triple thick® shake (32 fl oz cup),,,,,,1160,27,27,203,mcdonald’s
+snack size mcflurry® with m&m’s® candies,,,,,,430,9,16,64,mcdonald’s
+snack size mcflurry® with oreo® cookies,,,,,,340,8,12,53,mcdonald’s
+strawberry mccafé® shake (12 fl oz cup),,,,,,570,11,17,92,mcdonald’s
+strawberry mccafé® shake (16 fl oz cup),,,,,,710,14,20,116,mcdonald’s
+strawberry mccafé® shake (22 fl oz cup),,,,,,860,18,24,144,mcdonald’s
+strawberry triple thick® shake (12 fl oz cup),,,,,,420,10,10,73,mcdonald’s
+strawberry triple thick® shake (16 fl oz cup),,,,,,560,13,13,97,mcdonald’s
+strawberry triple thick® shake (21 fl oz cup),,,,,,740,17,18,128,mcdonald’s
+strawberry triple thick® shake (32 fl oz cup),,,,,,1110,25,26,194,mcdonald’s
+vanilla mccafé® shake (12 fl oz cup),,,,,,540,10,16,88,mcdonald’s
+vanilla mccafé® shake (16 fl oz cup),,,,,,680,14,20,111,mcdonald’s
+vanilla mccafé® shake (22 fl oz cup),,,,,,830,17,24,138,mcdonald’s
+vanilla triple thick shake® (32 fl oz cup),,,,,,1110,25,26,193,mcdonald’s
+vanilla triple thick® shake (12 fl oz cup),,,,,,420,9,10,72,mcdonald’s
+vanilla triple thick® shake (16 fl oz cup),,,,,,550,13,13,96,mcdonald’s
+vanilla triple thick® shake (21 fl oz cup),,,,,,740,17,18,128,mcdonald’s
+1% low fat milk jug,,,,,,100,8,2.5,12,mcdonald’s
+1% low fat chocolate milk jug,,,,,,170,9,3,26,mcdonald’s
+minute maid® 100% apple juice box,,,,,,100,0,0,23,mcdonald’s
+dasani® water,,,,,,0,0,0,0,mcdonald’s
+minute maid® orange juice (small),,,,,,150,2,0,30,mcdonald’s
+minute maid® orange juice (medium),,,,,,190,3,0,39,mcdonald’s
+minute maid® orange juice (large),,,,,,280,4,0,58,mcdonald’s
+coca-cola® classic (child),,,,,,110,0,0,29,mcdonald’s
+coca-cola® classic (small),,,,,,150,0,0,40,mcdonald’s
+coca-cola® classic (medium),,,,,,210,0,0,58,mcdonald’s
+coca-cola® classic (large),,,,,,310,0,0,86,mcdonald’s
+diet coke® (child),,,,,,0,0,0,0,mcdonald’s
+diet coke® (small),,,,,,0,0,0,0,mcdonald’s
+diet coke® (medium),,,,,,0,0,0,0,mcdonald’s
+diet coke® (large),,,,,,0,0,0,0,mcdonald’s
+sprite® (child),,,,,,110,0,0,28,mcdonald’s
+sprite® (small),,,,,,150,0,0,39,mcdonald’s
+sprite® (medium),,,,,,210,0,0,56,mcdonald’s
+sprite® (large),,,,,,310,0,0,83,mcdonald’s
+hi-c® orange lavaburst (child),,,,,,120,0,0,32,mcdonald’s
+hi-c® orange lavaburst (small),,,,,,160,0,0,44,mcdonald’s
+hi-c® orange lavaburst (medium),,,,,,240,0,0,64,mcdonald’s
+hi-c® orange lavaburst (large),,,,,,350,0,0,94,mcdonald’s
+powerade® mountain blast (child),,,,,,70,0,0,20,mcdonald’s
+powerade® mountain blast (small),,,,,,100,0,0,27,mcdonald’s
+powerade® mountain blast (medium),,,,,,150,0,0,39,mcdonald’s
+powerade® mountain blast (large),,,,,,220,0,0,58,mcdonald’s
+iced tea (child),,,,,,0,0,0,0,mcdonald’s
+iced tea (small),,,,,,0,0,0,0,mcdonald’s
+iced tea (medium),,,,,,0,0,0,0,mcdonald’s
+iced tea (large),,,,,,0,0,0,1,mcdonald’s
+coffee (small),,,,,,0,0,0,0,mcdonald’s
+coffee (large),,,,,,0,0,0,0,mcdonald’s
+coffee cream,,,,,,20,0,2,0,mcdonald’s
+sugar packet,,,,,,15,0,0,4,mcdonald’s
+"equal® 0
+calorie sweetener",,,,,,0,0,0,1,mcdonald’s
+"splenda® no
+calorie sweetener",,,,,,0,0,0,1,mcdonald’s
+iced coffee– caramel (small),,,,,,130,1,5,21,mcdonald’s
+iced coffee– caramel (medium),,,,,,190,2,8,27,mcdonald’s
+iced coffee– caramel (large),,,,,,270,2,11,41,mcdonald’s
+iced coffee– hazelnut (small),,,,,,130,1,5,21,mcdonald’s
+iced coffee– hazelnut (medium),,,,,,190,2,8,29,mcdonald’s
+iced coffee– hazelnut (large),,,,,,270,2,11,43,mcdonald’s
+iced coffee– regular (small),,,,,,140,1,5,22,mcdonald’s
+iced coffee– regular (medium),,,,,,200,2,8,30,mcdonald’s
+iced coffee– regular (large),,,,,,280,2,11,45,mcdonald’s
+iced coffee– vanilla (small),,,,,,130,1,5,21,mcdonald’s
+iced coffee– vanilla (medium),,,,,,190,2,8,29,mcdonald’s
+iced coffee– vanilla (large),,,,,,270,2,11,43,mcdonald’s
+iced coffee with sugar free vanilla syrup (small),,,,,,60,1,5,8,mcdonald’s
+iced coffee with sugar free vanilla syrup (medium),,,,,,90,2,8,11,mcdonald’s
+iced coffee with sugar free vanilla syrup (large),,,,,,120,2,11,16,mcdonald’s
+sweet tea (child),,,,,,110,0,0,27,mcdonald’s
+sweet tea (large),,,,,,280,1,0,69,mcdonald’s
+sweet tea (medium),,,,,,180,1,0,45,mcdonald’s
+sweet tea (small),,,,,,150,1,0,36,mcdonald’s
+nonfat cappuccino (small),,,,,,60,6,0,9,mcdonald’s
+nonfat cappuccino (medium),,,,,,80,8,0,12,mcdonald’s
+nonfat cappuccino (large),,,,,,90,9,0,13,mcdonald’s
+nonfat latte (small),,,,,,90,9,0,13,mcdonald’s
+nonfat latte (medium),,,,,,110,10,0,15,mcdonald’s
+nonfat latte (large),,,,,,120,12,0,18,mcdonald’s
+nonfat caramel cappuccino (small),,,,,,150,5,0,33,mcdonald’s
+nonfat caramel cappuccino (medium),,,,,,190,6,0,41,mcdonald’s
+nonfat caramel cappuccino (large),,,,,,230,7,0,49,mcdonald’s
+nonfat caramel latte (small),,,,,,170,7,0,36,mcdonald’s
+nonfat caramel latte (medium),,,,,,220,9,0,45,mcdonald’s
+nonfat caramel latte (large),,,,,,260,10,0,53,mcdonald’s
+nonfat hazelnut cappuccino (small),,,,,,150,5,0,34,mcdonald’s
+nonfat hazelnut cappuccino (medium),,,,,,190,6,0,43,mcdonald’s
+nonfat hazelnut cappuccino (large),,,,,,230,7,0,51,mcdonald’s
+nonfat hazelnut latte (small),,,,,,180,7,0,37,mcdonald’s
+nonfat hazelnut latte (medium),,,,,,220,9,0,46,mcdonald’s
+nonfat hazelnut latte (large),,,,,,260,10,0,55,mcdonald’s
+nonfat vanilla cappuccino (small),,,,,,150,5,0,34,mcdonald’s
+nonfat vanilla cappuccino (medium),,,,,,190,6,0,42,mcdonald’s
+nonfat vanilla cappuccino (large),,,,,,230,7,0,51,mcdonald’s
+nonfat vanilla latte (small),,,,,,180,7,0,37,mcdonald’s
+nonfat vanilla latte (medium),,,,,,220,9,0,46,mcdonald’s
+nonfat vanilla latte (large),,,,,,260,10,0,55,mcdonald’s
+nonfat cappuccino with sugar free vanilla syrup (small),,,,,,50,5,0,15,mcdonald’s
+nonfat cappuccino with sugar free vanilla syrup (medium),,,,,,70,7,0,19,mcdonald’s
+nonfat cappuccino with sugar free vanilla syrup (large),,,,,,80,8,0,22,mcdonald’s
+nonfat latte with sugar free vanilla syrup (small),,,,,,80,7,0,18,mcdonald’s
+nonfat latte with sugar free vanilla syrup (medium),,,,,,90,9,0,22,mcdonald’s
+nonfat latte with sugar free vanilla syrup (large),,,,,,110,11,0,27,mcdonald’s
+mocha with nonfat milk (small),,,,,,240,7,5,41,mcdonald’s
+mocha with nonfat milk (medium),,,,,,280,8,6,50,mcdonald’s
+mocha with nonfat milk (large),,,,,,330,10,6,58,mcdonald’s
+hot chocolate with nonfat milk (small),,,,,,250,8,5,43,mcdonald’s
+hot chocolate with nonfat milk (medium),,,,,,310,11,6,55,mcdonald’s
+hot chocolate with nonfat milk (large),,,,,,390,16,6,68,mcdonald’s
+iced nonfat latte (small),,,,,,50,5,0,7,mcdonald’s
+iced nonfat latte (medium),,,,,,60,6,0,9,mcdonald’s
+iced nonfat latte (large),,,,,,70,7,0,11,mcdonald’s
+iced nonfat caramel latte (small),,,,,,140,3,0,30,mcdonald’s
+iced nonfat caramel latte (medium),,,,,,150,5,0,32,mcdonald’s
+iced nonfat caramel latte (large),,,,,,190,6,0,40,mcdonald’s
+iced nonfat hazelnut latte (small),,,,,,140,3,0,32,mcdonald’s
+iced nonfat hazelnut latte (medium),,,,,,150,5,0,33,mcdonald’s
+iced nonfat hazelnut latte (large),,,,,,190,6,0,42,mcdonald’s
+iced nonfat vanilla latte (small),,,,,,140,3,0,31,mcdonald’s
+iced nonfat vanilla latte (medium),,,,,,150,5,0,33,mcdonald’s
+iced nonfat vanilla latte (large),,,,,,190,6,0,41,mcdonald’s
+iced nonfat latte with sugar free vanilla syrup (small),,,,,,40,4,0,13,mcdonald’s
+iced nonfat latte with sugar free vanilla syrup (medium),,,,,,50,5,0,14,mcdonald’s
+iced nonfat latte with sugar free vanilla syrup (large),,,,,,60,6,0,19,mcdonald’s
+iced mocha with nonfat milk (medium),,,,,,270,7,8,43,mcdonald’s
+iced nonfat caramel mocha (large),,,,,,300,11,6,49,mcdonald’s
+iced nonfat caramel mocha (medium),,,,,,240,9,6,37,mcdonald’s
+iced nonfat caramel mocha (small),,,,,,200,6,6,29,mcdonald’s
+nonfat caramel mocha (large),,,,,,280,12,4,49,mcdonald’s
+nonfat caramel mocha (medium),,,,,,240,9,4,41,mcdonald’s
+nonfat caramel mocha (small),,,,,,200,8,4,34,mcdonald’s
+cappuccino (small),,,,,,120,6,7,9,mcdonald’s
+cappuccino (medium),,,,,,140,8,8,11,mcdonald’s
+cappuccino (large),,,,,,180,9,10,13,mcdonald’s
+latte (small) ,,,,,,150,8,8,11,mcdonald’s
+latte (medium),,,,,,180,10,10,13,mcdonald’s
+latte (large),,,,,,210,11,11,16,mcdonald’s
+caramel cappuccino (small),,,,,,200,5,5,32,mcdonald’s
+caramel cappuccino (medium),,,,,,240,6,6,41,mcdonald’s
+caramel cappuccino (large),,,,,,290,8,8,49,mcdonald’s
+caramel latte (small),,,,,,230,7,7,35,mcdonald’s
+caramel latte (medium),,,,,,280,8,8,43,mcdonald’s
+caramel latte (large),,,,,,330,9,9,52,mcdonald’s
+hazelnut cappuccino (small),,,,,,200,5,5,34,mcdonald’s
+hazelnut cappuccino (medium),,,,,,240,6,6,42,mcdonald’s
+hazelnut cappuccino (large),,,,,,290,7,8,51,mcdonald’s
+hazelnut latte (small),,,,,,230,7,7,36,mcdonald’s
+hazelnut latte (medium),,,,,,280,8,8,45,mcdonald’s
+hazelnut latte (large),,,,,,330,9,9,53,mcdonald’s
+vanilla cappuccino (small),,,,,,200,5,5,34,mcdonald’s
+vanilla cappuccino (medium),,,,,,240,6,6,42,mcdonald’s
+vanilla cappuccino (large),,,,,,290,7,8,51,mcdonald’s
+vanilla latte (small),,,,,,230,7,7,36,mcdonald’s
+vanilla latte (medium),,,,,,280,8,8,44,mcdonald’s
+vanilla latte (large),,,,,,330,9,9,53,mcdonald’s
+cappuccino with sugar free vanilla syrup (small),,,,,,100,5,5,15,mcdonald’s
+cappuccino with sugar free vanilla syrup (medium),,,,,,120,6,6,18,mcdonald’s
+cappuccino with sugar free vanilla syrup (large),,,,,,150,8,8,22,mcdonald’s
+latte with sugar free vanilla syrup (small),,,,,,130,7,7,17,mcdonald’s
+latte with sugar free vanilla syrup (medium),,,,,,160,8,8,21,mcdonald’s
+latte with sugar free vanilla syrup (large),,,,,,180,10,10,25,mcdonald’s
+mocha (small),,,,,,280,6,11,40,mcdonald’s
+mocha (medium),,,,,,330,7,12,48,mcdonald’s
+mocha (large),,,,,,400,10,14,58,mcdonald’s
+hot chocolate (small),,,,,,300,8,12,41,mcdonald’s
+hot chocolate (medium),,,,,,380,10,15,53,mcdonald’s
+hot chocolate (large),,,,,,460,13,18,63,mcdonald’s
+iced latte (small),,,,,,80,4,4.5,6,mcdonald’s
+iced latte (medium),,,,,,100,6,6,8,mcdonald’s
+iced latte (large),,,,,,140,7,8,10,mcdonald’s
+iced caramel latte (small),,,,,,160,3,3,29,mcdonald’s
+iced caramel latte (medium),,,,,,180,4,4.5,31,mcdonald’s
+iced caramel latte (large),,,,,,230,6,6,40,mcdonald’s
+iced hazelnut latte (small),,,,,,160,3,3,31,mcdonald’s
+iced hazelnut latte (medium),,,,,,180,4,4.5,33,mcdonald’s
+iced hazelnut latte (large),,,,,,230,6,6,41,mcdonald’s
+iced vanilla latte (small),,,,,,160,3,3,31,mcdonald’s
+iced vanilla latte (medium),,,,,,190,5,4.5,33,mcdonald’s
+iced vanilla latte (large),,,,,,230,6,6,41,mcdonald’s
+iced latte with sugar free vanilla syrup (small),,,,,,60,3,3,12,mcdonald’s
+iced latte with sugar free vanilla syrup (medium),,,,,,90,5,5,14,mcdonald’s
+iced latte with sugar free vanilla syrup (large),,,,,,110,6,6,19,mcdonald’s
+iced mocha (medium),,,,,,310,7,13,42,mcdonald’s
+caramel mocha (large),,,,,,360,10,14,47,mcdonald’s
+caramel mocha (medium),,,,,,290,8,12,39,mcdonald’s
+caramel mocha (small),,,,,,250,7,11,33,mcdonald’s
+iced caramel mocha (large),,,,,,380,10,16,48,mcdonald’s
+iced caramel mocha (medium),,,,,,300,8,14,36,mcdonald’s
+iced caramel mocha (small),,,,,,240,6,12,29,mcdonald’s
+frappe caramel (small),,,,,,450,6,20,61,mcdonald’s
+frappe caramel (medium),,,,,,550,8,24,76,mcdonald’s
+frappe caramel (large),,,,,,680,10,29,94,mcdonald’s
+frappe mocha (small),,,,,,450,7,20,62,mcdonald’s
+frappe mocha (medium),,,,,,560,8,24,78,mcdonald’s
+frappe mocha (large),,,,,,680,10,28,96,mcdonald’s
+strawberry banana smoothie (large),,,,,,330,3,1,77,mcdonald’s
+strawberry banana smoothie (medium),,,,,,260,2,1,60,mcdonald’s
+strawberry banana smoothie (small),,,,,,210,2,0.5,49,mcdonald’s
+wild berry smoothie (large),,,,,,320,3,1,75,mcdonald’s
+wild berry smoothie (medium),,,,,,260,3,1,60,mcdonald’s
+wild berry smoothie (small),,,,,,210,2,0.5,48,mcdonald’s
+whopper® sandwich,,,,,,660,28,40,49,burger king
+whopper® sandwich with cheese,,,,,,740,32,46,50,burger king
+bacon & cheese whopper® sandwich,,,,,,790,35,51,50,burger king
+double whopper® sandwich,,,,,,900,48,58,49,burger king
+double whopper® sandwich with cheese,,,,,,980,52,64,50,burger king
+triple whopper® sandwich,,,,,,1130,67,75,49,burger king
+triple whopper® sandwich with cheese,,,,,,1220,71,82,50,burger king
+whopper jr.® sandwich,,,,,,310,13,18,27,burger king
+bacon king sandwich,,,,,,1150,61,79,49,burger king
+cheddar bacon king sandwich,,,,,,1190,64,84,50,burger king
+single quarter pound king sandwich,,,,,,580,32,29,49,burger king
+double quarter pound king sandwich,,,,,,900,56,54,50,burger king
+single stacker king,,,,,,700,35,42,48,burger king
+double stacker king,,,,,,1050,61,68,49,burger king
+impossible whopper® sandwich,,,,,,630,25,34,58,burger king
+double hamburger,,,,,,350,21,18,26,burger king
+extra long cheeseburger,,,,,,630,29,37,45,burger king
+bacon cheeseburger,,,,,,320,17,16,27,burger king
+bacon double cheeseburger,,,,,,420,25,24,27,burger king
+crispy chicken sandwich,,,,,,670,23,41,54,burger king
+spicy crispy chicken sandwich,,,,,,700,25,42,57,burger king
+original chicken sandwich,,,,,,660,28,40,48,burger king
+bacon & cheese crispy chicken sandwich,,,,,,800,30,52,55,burger king
+bbq bacon crispy chicken sandwich,,,,,,790,28,49,60,burger king
+crispy chicken jr.,,,,,,450,12,30,34,burger king
+spicy crispy chicken jr.,,,,,,390,12,21,37,burger king
+chicken nuggets- 4pc,,,,,,170,8,11,11,burger king
+chicken nuggets- 6pc,,,,,,260,12,16,16,burger king
+chicken nuggets- 10pc,,,,,,430,20,27,27,burger king
+chicken nuggets- 20pc,,,,,,860,39,54,53,burger king
+spicy chicken nuggets- 4pc,,,,,,210,8,15,11,burger king
+spicy chicken nuggets- 6pc,,,,,,320,12,22,17,burger king
+spicy chicken nuggets- 10 pc,,,,,,530,20,37,28,burger king
+spicy chicken nuggets- 20 pc,,,,,,1050,40,74,56,burger king
+chicken fries – 9 pc.,,,,,,280,13,17,20,burger king
+crispy taco,,,,,,170,5,9,19,burger king
+big fish sandwich,,,,,,510,16,28,51,burger king
+garden chicken salad with crispy chicken – no dressing,,,,,,440,25,25,31,burger king
+club salad with crispy chicken – no dressing,,,,,,540,31,33,31,burger king
+garden side salad – w/o dressing,,,,,,60,4,4,3,burger king
+ken’s ranch dressing,,,,,,260,1,28,2,burger king
+ken’s golden italian dressing,,,,,,160,0,17,4,burger king
+ken’s lite honey balsamic vinaigrette,,,,,,120,0,8,14,burger king
+buttery garlic croutons- packet,,,,,,60,1,2.5,9,burger king
+onion rings – value,,,,,,150,1,8,19,burger king
+onion rings – small,,,,,,320,3,16,41,burger king
+onion rings – medium,,,,,,410,4,21,53,burger king
+onion rings – large,,,,,,500,5,25,64,burger king
+french fries – value (unsalted),,,,,,220,2,9,34,burger king
+french fries – small,,,,,,320,4,13,49,burger king
+french fries – medium,,,,,,380,4,16,58,burger king
+french fries – large,,,,,,430,5,18,66,burger king
+kids oatmeal,,,,,,170,4,3,32,burger king
+mott’s® natural applesauce,,,,,,50,0,0,13,burger king
+fat free milk (8 fl oz),,,,,,90,9,0,13,burger king
+1% low fat chocolate milk (8 fl oz),,,,,,160,8,2.5,26,burger king
+capri sun® 100% apple juice (6 fl oz),,,,,,80,0,0,20,burger king
+pb&j jamwich,,,,,,300,11,16,33,burger king
+soft serve cone,,,,,,190,5,4.5,32,burger king
+dutch apple pie,,,,,,340,3,14,51,burger king
+hershey®’s sundae pie,,,,,,310,3,19,32,burger king
+pie made with twix®,,,,,,370,4,20,45,burger king
+oreo® cookie cheesecake,,,,,,350,6,18,41,burger king
+soft serve cup,,,,,,170,5,4.5,28,burger king
+hershey®’s chocolate sundae,,,,,,260,5,5,49,burger king
+caramel sundae,,,,,,240,5,5,42,burger king
+chocolate chip cookies (each),,,,,,160,2,8,24,burger king
+croissan’wich® egg & cheese,,,,,,340,12,18,29,burger king
+"croissan’wich® sausage, egg & cheese",,,,,,500,19,33,30,burger king
+"croissan’wich® ham, egg & cheese",,,,,,370,17,19,30,burger king
+"croissan’wich® bacon, egg & cheese",,,,,,370,14,21,30,burger king
+fully loaded croissan’wich®,,,,,,610,28,40,31,burger king
+double croissan’wich® with sausage & bacon,,,,,,580,23,40,31,burger king
+double croissan’wich® with sausage,,,,,,710,29,52,31,burger king
+double croissan’wich® with ham & sausage,,,,,,580,27,38,31,burger king
+fully loaded biscuit,,,,,,640,28,45,31,burger king
+"ham, egg, & cheese biscuit",,,,,,400,17,24,29,burger king
+"sausage, egg, & cheese biscuit",,,,,,530,19,38,29,burger king
+"bacon, egg & cheese biscuit",,,,,,400,13,26,29,burger king
+sausage biscuit,,,,,,420,12,28,28,burger king
+breakfast burrito jr.,,,,,,370,15,23,27,burger king
+egg-normous burritoρ,,,,,,780,32,42,68,burger king
+bk™ ultimate breakfast platter,,,,,,930,24,44,110,burger king
+ny ultimate platter (regional menu item),,,,,,900,25,46,95,burger king
+pancake and sausage platter,,,,,,610,12,31,72,burger king
+hash browns – small,,,,,,250,2,16,24,burger king
+hash browns – medium,,,,,,500,4,33,48,burger king
+hash browns – large,,,,,,670,5,44,65,burger king
+french toast sticks (3 piece),,,,,,230,3,11,29,burger king
+french toast sticks (5 piece),,,,,,380,5,18,49,burger king
+american cheese (slice),,,,,,40,2,3.5,1,burger king
+ketchup (packet),,,,,,10,0,0,3,burger king
+mayonnaise (packet),,,,,,80,0,9,1,burger king
+strawberry or grape jam (packet),,,,,,30,0,0,7,burger king
+breakfast syrup (1 oz),,,,,,120,0,0,30,burger king
+barbecue dipping sauce (1 oz),,,,,,40,0,0,11,burger king
+ranch dipping sauce (1 oz),,,,,,140,1,15,1,burger king
+buffalo dipping sauce (1 oz),,,,,,80,0,8,2,burger king
+zesty onion ring dipping sauce (1 oz),,,,,,150,0,15,3,burger king
+honey mustard dipping sauce (1oz),,,,,,90,0,6,8,burger king
+smoothie: strawberry banana 16 fl oz,,,,,,310,4,1,71,burger king
+oreo® shake,,,,,,720,16,20,118,burger king
+chocolate oreo® shake,,,,,,740,17,22,121,burger king
+vanilla milk shake,,,,,,580,14,15,98,burger king
+hershey®’s chocolate milk shake,,,,,,610,14,16,103,burger king
+strawberry milk shake,,,,,,640,14,15,113,burger king
+coca cola classic®‡,,,,,, , , , ,burger king
+16 fl oz,,,,,,210,0,0,58,burger king
+20 fl oz,,,,,,270,0,0,73,burger king
+29 fl oz,,,,,,290,0,0,105,burger king
+38 fl oz,,,,,,510,0,0,138,burger king
+diet coke®‡,,,,,, , , , ,burger king
+sprite®‡,,,,,, , , , ,burger king
+dr. pepper®‡,,,,,, , , , ,burger king
+barq’s® root beer‡,,,,,, , , , ,burger king
+cherry coke®‡,,,,,, , , , ,burger king
+fanta® orange‡,,,,,, , , , ,burger king
+hi-c® fruit punch‡,,,,,, , , , ,burger king
+minute maid® light lemonade,,,,,, , , , ,burger king
+sweet tea,,,,,, , , , ,burger king
+40 fl oz,,,,,,240,0,0,71,burger king
+unsweetened tea,,,,,, , , , ,burger king
+capri sun® 100% apple juice,,,,,,80,0,0,20,burger king
+minute maid® orange juice,,,,,,140,2,0,33,burger king
+frozen coke® – 16 oz,,,,,,130,0,0,35,burger king
+bk® café coffee- 12 fl oz,,,,,,0,0,0,0,burger king
+bk® café coffee- 16 fl oz,,,,,,0,0,0,0,burger king
+bk® café coffee- 20 fl oz,,,,,,0,0,0,0,burger king
+bk® café decaf coffee- 12 fl oz,,,,,,0,0,0,0,burger king
+bk® café decaf coffee- 16 fl oz,,,,,,0,0,0,0,burger king
+bk® café decaf coffee- 20 fl oz,,,,,,0,0,0,0,burger king
+bk® café iced vanilla coffee- 12 fl oz,,,,,,150,1,8,21,burger king
+bk® café iced vanilla coffee- 16 fl oz,,,,,,200,2,10,27,burger king
+bk® café iced vanilla coffee- 20 fl oz,,,,,,260,2,13,34,burger king
+bk® café iced mocha coffee- 12 fl oz,,,,,,180,2,8,27,burger king
+bk® café iced mocha coffee- 16 fl oz,,,,,,240,2,10,35,burger king
+bk® café iced mocha coffee- 20 fl oz,,,,,,300,3,13,45,burger king
+bk® café mocha frappe- 12 fl oz,,,,,,300,7,8,50,burger king
+bk® café mocha frappe- 16 fl oz,,,,,,400,9,10,68,burger king
+bk® café mocha frappe- 20 fl oz,,,,,,510,12,13,87,burger king
+bk® café caramel frappe- 12 fl oz,,,,,,300,7,8,50,burger king
+bk® café caramel frappe- 16 fl oz,,,,,,400,9,10,68,burger king
+bk® café caramel frappe- 20 fl oz,,,,,,500,11,12,86,burger king
+baconator,,,,,,950,59,62,40,wendy’s
+dave’s double,,,,,,810,49,51,41,wendy’s
+dave’s single,,,,,,570,30,34,40,wendy’s
+dave’s triple,,,,,,1090,71,72,43,wendy’s
+double stack,,,,,,390,25,21,26,wendy’s
+jr. bacon cheeseburger,,,,,,380,19,22,25,wendy’s
+jr. cheeseburger,,,,,,280,16,13,26,wendy’s
+jr. cheeseburger deluxe,,,,,,340,16,19,27,wendy’s
+son of baconator,,,,,,630,34,39,37,wendy’s
+3 piece chicken tenders,,,,,,330,24,16,22,wendy’s
+4 piece chicken nuggets,,,,,,170,9,11,10,wendy’s
+4 piece chicken tenders,,,,,,430,32,21,29,wendy’s
+6 picece chicken nuggets,,,,,,250,13,16,14,wendy’s
+6 piece chicken tenders,,,,,,650,48,32,43,wendy’s
+10 piece chicken nuggets,,,,,,420,22,27,24,wendy’s
+crispy chicken blt,,,,,,420,20,23,35,wendy’s
+grilled asiago ranch club,,,,,,530,43,23,36,wendy’s
+grilled chicken sandwich,,,,,,370,34,10,38,wendy’s
+grilled chicken wrap,,,,,,270,20,10,24,wendy’s
+homestyle asiago ranch chicken club,,,,,,660,38,34,52,wendy’s
+homestyle chicken sandwich,,,,,,510,28,22,51,wendy’s
+s’awesome sauce,,,,,,120,1,12,4,wendy’s
+spicy asiago ranch club,,,,,,670,38,32,55,wendy’s
+spicy chicken sandwich,,,,,,510,29,20,54,wendy’s
+spicy chicken wrap,,,,,,370,18,20,30,wendy’s
+"apple pecan chicken salad, full size",,,,,,560,38,24,52,wendy’s
+"apple pecan chicken salad, half size",,,,,,340,20,17,29,wendy’s
+"berry burst chicken salad, full size",,,,,,460,41,17,41,wendy’s
+"berry burst chicken salad, half size",,,,,,290,23,13,23,wendy’s
+caesar side salad,,,,,,240,8,15,19,wendy’s
+garden side salad,,,,,,250,7,18,18,wendy’s
+"southwest avocado chicken salad, full size",,,,,,600,42,41,18,wendy’s
+"southwest avocado chicken salad, half size",,,,,,300,21,20,10,wendy’s
+"spicy caesar chicken salad, full size",,,,,,720,42,42,44,wendy’s
+"spicy caesar chicken salad, half size",,,,,,410,23,23,30,wendy’s
+"taco salad, full size",,,,,,660,32,32,63,wendy’s
+"taco salad, half size",,,,,,470,19,23,49,wendy’s
+apple bites,,,,,,35,0,0,9,wendy’s
+baconator fries,,,,,,490,14,28,45,wendy’s
+bacon cheese baked potato,,,,,,440,17,14,64,wendy’s
+cheese baked potato,,,,,,430,14,13,65,wendy’s
+chili & cheese baked potato,,,,,,460,19,11,71,wendy’s
+"chili, large",,,,,,250,23,7,23,wendy’s
+"chili, small",,,,,,170,15,5,16,wendy’s
+chili cheese fries,,,,,,500,16,25,53,wendy’s
+"natural-cut fries, junior",,,,,,230,3,10,30,wendy’s
+"natural-cut fries, large",,,,,,530,7,24,70,wendy’s
+"natural-cut fries, medium",,,,,,420,6,19,56,wendy’s
+"natural-cut fries, small",,,,,,320,5,15,43,wendy’s
+plain baked potato,,,,,,270,7,0,61,wendy’s
+sour cream and chive baked potato,,,,,,310,8,2.5,63,wendy’s
+summer berry burst fruit cup,,,,,,20,0,0,5,wendy’s
+1% chocolate milk,,,,,,150,7,2.5,26,wendy’s
+1% white milk,,,,,,90,7,2,10,wendy’s
+"all-natural lemonade, large",,,,,,380,0,0,100,wendy’s
+"all-natural lemonade, medium",,,,,,330,0,0,86,wendy’s
+"all-natural lemonade, small",,,,,,190,0,0,50,wendy’s
+"apple kiwi fruit tea, large",,,,,,330,0,0,83,wendy’s
+"apple kiwi fruit tea, medium",,,,,,300,0,0,76,wendy’s
+"apple kiwi fruit tea, small",,,,,,170,0,0,44,wendy’s
+"barq’s root beer, large",,,,,,450,0,0,122,wendy’s
+"barq’s root beer, medium",,,,,,360,0,0,98,wendy’s
+"barq’s root beer, small",,,,,,220,0,0,61,wendy’s
+"brewed unsweetened iced tea, large",,,,,,5,0,0,2,wendy’s
+"brewed unsweetened iced tea, medium",,,,,,0,0,0,1,wendy’s
+"brewed unsweetened iced tea, small",,,,,,0,0,0,1,wendy’s
+"caramel iced coffee, medium",,,,,,240,3,8,40,wendy’s
+"caramel iced coffee, small",,,,,,160,2,6,26,wendy’s
+"coca-cola, large",,,,,,400,0,0,109,wendy’s
+"coca-cola, medium",,,,,,320,0,0,87,wendy’s
+"coca-cola, small",,,,,,200,0,0,54,wendy’s
+"coca-cola zero sugar, large",,,,,,0,0,0,1,wendy’s
+"coca-cola zero sugar, medium",,,,,,0,0,0,1,wendy’s
+"coca-cola zero sugar, small",,,,,,0,0,0,0,wendy’s
+"diet coke, large",,,,,,0,0,0,1,wendy’s
+"diet coke, medium",,,,,,0,0,0,1,wendy’s
+"diet coke, small",,,,,,0,0,0,0,wendy’s
+"dr pepper, large",,,,,,240,0,0,66,wendy’s
+"dr pepper, medium",,,,,,190,0,0,53,wendy’s
+"dr pepper, small",,,,,,120,0,0,33,wendy’s
+"fanta orange, large",,,,,,430,0,0,117,wendy’s
+"fanta orange, medium",,,,,,340,0,0,94,wendy’s
+"fanta orange, small",,,,,,210,0,0,59,wendy’s
+"hi-c flashin’ fruit punch, large",,,,,,420,0,0,115,wendy’s
+"hi-c flashin’ fruit punch, medium",,,,,,340,0,0,92,wendy’s
+"hi-c flashin’ fruit punch, small",,,,,,210,0,0,58,wendy’s
+"honest tropical green tea, large",,,,,,110,0,0,29,wendy’s
+"honest tropical green tea, medium",,,,,,90,0,0,22,wendy’s
+"honest tropical green tea, small",,,,,,60,0,0,14,wendy’s
+hot tea,,,,,,0,0,0,1,wendy’s
+"limeade, large",,,,,,460,0,0,117,wendy’s
+"limeade, medium",,,,,,380,0,0,98,wendy’s
+"limeade, small",,,,,,230,0,0,59,wendy’s
+"minute maid light lemonade, large",,,,,,15,0,0,2,wendy’s
+"minute maid light lemonade, medium",,,,,,10,0,0,1,wendy’s
+"minute maid light lemonade, small",,,,,,5,0,0,1,wendy’s
+"mocha iced coffee, medium",,,,,,210,3,8,32,wendy’s
+"mocha iced coffee, small",,,,,,170,2,6,28,wendy’s
+"pear berry fruit tea, large",,,,,,320,0,0,82,wendy’s
+"pear berry fruit tea, medium",,,,,,300,0,0,76,wendy’s
+"pear berry fruit tea, small",,,,,,170,0,0,44,wendy’s
+"skinny vanilla iced coffee, medium",,,,,,100,3,8,14,wendy’s
+"skinny vanilla iced coffee, small",,,,,,70,2,5,6,wendy’s
+"small sprite, small",,,,,,200,0,0,53,wendy’s
+"sprite, large",,,,,,390,0,0,105,wendy’s
+"sprite, medium",,,,,,310,0,0,84,wendy’s
+"strawberry lemonade, large",,,,,,480,0,0,121,wendy’s
+"strawberry lemonade, medium",,,,,,380,0,0,98,wendy’s
+"strawberry lemonade, small",,,,,,230,0,0,58,wendy’s
+"strawberry sweet tea, large",,,,,,270,0,0,69,wendy’s
+"strawberry sweet tea, medium",,,,,,240,0,0,60,wendy’s
+"strawberry sweet tea, small",,,,,,140,0,0,36,wendy’s
+"strawberry tea, large",,,,,,90,0,0,22,wendy’s
+"strawberry tea, medium",,,,,,60,0,0,16,wendy’s
+"strawberry tea, small",,,,,,45,0,0,11,wendy’s
+"sweetened iced tea, large",,,,,,300,0,0,77,wendy’s
+"sweetened iced tea, medium",,,,,,220,0,0,58,wendy’s
+"sweetened iced tea, small",,,,,,160,0,0,41,wendy’s
+"vanilla iced coffee, medium",,,,,,250,3,8,42,wendy’s
+"vanilla iced coffee, small",,,,,,170,2,6,28,wendy’s
+"classic chocolate frosty, junior",,,,,,200,6,5,33,wendy’s
+"classic chocolate frosty, large",,,,,,590,17,15,99,wendy’s
+"classic chocolate frosty, medium",,,,,,470,13,12,79,wendy’s
+"classic chocolate frosty, small",,,,,,350,10,9,58,wendy’s
+"vanilla frosty, junior",,,,,,190,5,5,32,wendy’s
+"vanilla frosty, large",,,,,,570,15,15,94,wendy’s
+"vanilla frosty, medium",,,,,,450,12,12,75,wendy’s
+"vanilla frosty, small",,,,,,340,9,9,56,wendy’s
+chocolate chunk cookie,,,,,,310,3,16,40,wendy’s
+double chocolate chunk cookie,,,,,,290,4,14,39,wendy’s
+kids 2 piece chicken tenders,,,,,,200,15,10,13,wendy’s
+kids 4 piece chicken nuggets,,,,,,170,9,11,10,wendy’s
+kids cheeseburger,,,,,,280,15,13,25,wendy’s
+kids grilled chicken wrap,,,,,,270,20,10,24,wendy’s
+kids hamburger,,,,,,240,13,9,24,wendy’s
+artisan egg sandwich with bacon,,,,,,320,18,17,25,wendy’s
+artisan egg sandwich with sausage,,,,,,480,21,33,27,wendy’s
+bacon breakfast bowl,,,,,,510,19,28,44,wendy’s
+biggie breakfast sandwich,,,,,,610,27,40,37,wendy’s
+fresh-baked biscuit with applewood smoked bacon,,,,,,410,15,24,34,wendy’s
+fresh baked biscuit with natural sausage,,,,,,590,20,41,36,wendy’s
+gravy and sausage bowl,,,,,,450,12,22,50,wendy’s
+honey butter chicken biscuit,,,,,,500,19,26,48,wendy’s
+sausage and egg burrito,,,,,,360,17,20,29,wendy’s
+sausage and gravy biscuit,,,,,,490,8,29,49,wendy’s
+sausage breakfast bowl,,,,,,640,21,42,46,wendy’s
+"seasoned home-style potatoes, large",,,,,,360,5,13,57,wendy’s
+"seasoned home-style potatoes, medium",,,,,,250,4,9,39,wendy’s
+"seasoned home-style potatoes, small",,,,,,230,3,8,35,wendy’s
+two sausage and egg burritos,,,,,,720,34,41,59,wendy’s
+two sausage biscuits,,,,,,960,23,65,70,wendy’s
+limited time cinnabon dessert  biscuits,,,,,,290,4,13,40,kfc
+limited time original recipe chicken chicken breast,,,,,,390,39,21,11,kfc
+limited time original recipe chicken chicken limited time drumstick,,,,,,130,12,8,4,kfc
+limited time original recipe chicken chicken thigh,,,,,,280,19,19,8,kfc
+limited time original recipe chicken chicken whole wing,,,,,,130,10,8,3,kfc
+chicken breast,,,,,,770,35,60,21,kfc
+chicken drumstick,,,,,,250,11,21,6,kfc
+chicken thigh,,,,,,500,22,40,11,kfc
+chicken whole wing,,,,,,290,10,25,6,kfc
+breast,,,,,,260,38,12,1,kfc
+drumstick,,,,,,100,11,6,0,kfc
+thigh,,,,,,180,17,12,0,kfc
+whole wing,,,,,,90,9,6,1,kfc
+extra crispy  chicken breast,,,,,,530,35,35,18,kfc
+extra crispy  chicken drumstick,,,,,,170,10,12,5,kfc
+extra crispy  chicken thigh,,,,,,330,22,23,9,kfc
+extra crispy  chicken whole wing,,,,,,170,10,13,5,kfc
+kentucky grilled chicken breast,,,,,,210,38,7,0,kfc
+kentucky grilled chicken drumstick,,,,,,80,11,4,0,kfc
+kentucky grilled chicken thigh,,,,,,150,17,9,0,kfc
+kentucky grilled chicken whole wing,,,,,,70,9,3,0,kfc
+spicy crispy chicken breast,,,,,,350,30,20,11,kfc
+spicy crispy chicken drumstick,,,,,,130,9,8,5,kfc
+spicy crispy chicken thigh,,,,,,270,13,20,10,kfc
+spicy crispy chicken whole wing,,,,,,120,7,8,5,kfc
+extra crispy  tender (each),,,,,,260,19,14,15,kfc
+kentucky fried wings buffalo,,,,,,100,5,7,3,kfc
+kentucky fried wings honey bbq,,,,,,100,5,6,8,kfc
+kentucky fried wings nashville hot,,,,,,130,5,11,4,kfc
+kentucky fried wings unsauced,,,,,,80,5,6,3,kfc
+popcorn nuggets kids,,,,,,290,13,19,19,kfc
+popcorn nuggets large,,,,,,620,27,39,39,kfc
+bbq baked beans,,,,,,190,11,1,34,kfc
+biscuit,,,,,,180,4,8,22,kfc
+coleslaw,,,,,,170,1,12,14,kfc
+corn on the cob,,,,,,70,2,0.5,17,kfc
+green beans,,,,,,25,1,0,5,kfc
+kfc® cornbread muffin,,,,,,210,3,9,28,kfc
+macaroni & cheese,,,,,,140,5,6,17,kfc
+macaroni salad,,,,,,140,1,8,14,kfc
+mashed potatoes,,,,,,110,2,3.5,17,kfc
+mashed potatoes with gravy,,,,,,130,3,4.5,20,kfc
+potato salad,,,,,,340,2,28,19,kfc
+secret recipe fries,,,,,,320,5,15,41,kfc
+sweet kernel corn,,,,,,70,2,0.5,16,kfc
+bbq baked beans (family),,,,,,830,47,5,148,kfc
+coleslaw (family),,,,,,640,4,46,54,kfc
+corn on the cob (family),,,,,,280,9,2,67,kfc
+green beans (family),,,,,,80,4,0,15,kfc
+macaroni & cheese (family),,,,,,540,18,23,66,kfc
+macaroni salad (family),,,,,,480,3,28,50,kfc
+mashed potatoes (family),,,,,,460,9,15,72,kfc
+mashed potatoes with gravy (family),,,,,,590,12,21,88,kfc
+potato salad (family),,,,,,1200,8,98,65,kfc
+secret recipe fries (family),,,,,,840,13,40,108,kfc
+sweet kernel corn (family),,,,,,280,10,2.5,67,kfc
+chicken littles,,,,,,300,14,15,27,kfc
+chicken littles – buffalo,,,,,,310,14,17,27,kfc
+chicken littles – honey bbq,,,,,,320,14,15,31,kfc
+chicken littles – nashville hot,,,,,,340,14,19,27,kfc
+classic chicken sandwich,,,,,,650,34,35,49,kfc
+crispy colonel’s sandwich,,,,,,470,24,24,39,kfc
+crispy colonel’s sandwich – buffalo,,,,,,500,24,27,39,kfc
+crispy colonel’s sandwich – honey bbq,,,,,,510,24,25,48,kfc
+crispy colonel’s sandwich – nashville hot,,,,,,540,24,32,40,kfc
+crispy twister®,,,,,,630,28,34,53,kfc
+honey bbq sandwich,,,,,,350,24,3.5,55,kfc
+chicken pot pie,,,,,,720,26,41,60,kfc
+kfc® famous bowl,,,,,,740,26,35,81,kfc
+kfc® famous bowl – snack size,,,,,,270,11,14,27,kfc
+house side salad,,,,,,15,1,0,3,kfc
+heinz buttermilk dressing,,,,,,160,0,17,1,kfc
+hidden valley the original ranch fat free dressing,,,,,,35,1,0,8,kfc
+kfc® creamy parmesan caesar dressing,,,,,,260,2,26,4,kfc
+marzetti light italian dressing,,,,,,15,0,0.5,2,kfc
+parmesan garlic croutons,,,,,,60,2,3,8,kfc
+apple turnover,,,,,,230,2,10,32,kfc
+café valley chocolate chip cake (1 slice),,,,,,300,4,15,39,kfc
+café valley lemon cake (1 slice),,,,,,220,2,10,30,kfc
+café valley mini chocolate chip cake,,,,,,300,3,12,49,kfc
+café valley mini lemon cake,,,,,,300,3,13,43,kfc
+oreo cookies and crème pie,,,,,,270,3,13,35,kfc
+reese’s peanut butter pie,,,,,,300,5,17,33,kfc
+bbq – dipping sauce cup,,,,,,45,0,0,11,kfc
+colonel’s buttery spread,,,,,,35,0,4,0,kfc
+grape jelly packet,,,,,,35,0,0,9,kfc
+honey mustard – dipping sauce cup,,,,,,110,0,9,6,kfc
+honey sauce packet,,,,,,30,0,0,8,kfc
+ketchup,,,,,,30,0,0,8,kfc
+kfc sauce – dipping sauce cup,,,,,,90,0,8,5,kfc
+lemon juice packet,,,,,,5,0,0,1,kfc
+ranch – dipping sauce cup,,,,,,130,0,14,2,kfc
+strawberry jam packet,,,,,,35,0,0,9,kfc
+capri sun® 100% juice fruit punch,,,,,,80,0,0,21,kfc
+chocolate milk 1%,,,,,,150,7,2.5,26,kfc
+milk 1%,,,,,,90,7,2,10,kfc
+musselman’s™ applesauce,,,,,,45,0,0,12,kfc
+7up® (12 fl oz),,,,,,140,0,0,35,kfc
+7up® (16 fl oz),,,,,,190,0,0,46,kfc
+7up® (20 fl oz),,,,,,240,0,0,58,kfc
+7up® (30 fl oz),,,,,,350,0,0,87,kfc
+classic lemonade (1/2 gallon),,,,,,880,0,0,234,kfc
+classic lemonade (20 fl oz),,,,,,140,0,0,39,kfc
+code red mountain dew® (12 fl oz),,,,,,170,0,0,46,kfc
+code red mountain dew® (16 fl oz),,,,,,230,0,0,62,kfc
+code red mountain dew® (20 fl oz),,,,,,290,0,0,77,kfc
+code red mountain dew® (30 fl oz),,,,,,430,0,0,116,kfc
+diet dr pepper® (12 fl oz),,,,,,0,0,0,0,kfc
+diet dr pepper® (16 fl oz),,,,,,0,0,0,0,kfc
+diet dr pepper® (20 fl oz),,,,,,0,0,0,0,kfc
+diet dr pepper® (30 fl oz),,,,,,0,0,0,0,kfc
+diet mist twst® (12 fl oz),,,,,,0,0,0,0,kfc
+diet mist twst® (16 fl oz),,,,,,0,0,0,0,kfc
+diet mist twst® (20 fl oz),,,,,,0,0,0,0,kfc
+diet mist twst® (30 fl oz),,,,,,5,0,0,0,kfc
+diet mountain dew® (12 fl oz),,,,,,0,0,0,1,kfc
+diet mountain dew® (16 fl oz),,,,,,5,0,0,1,kfc
+diet mountain dew® (20 fl oz),,,,,,10,0,0,1,kfc
+diet mountain dew® (30 fl oz),,,,,,10,0,0,1,kfc
+diet pepsi® (12 fl oz),,,,,,0,0,0,0,kfc
+diet pepsi® (16 fl oz),,,,,,0,0,0,0,kfc
+diet pepsi® (20 fl oz),,,,,,0,0,0,0,kfc
+diet pepsi® (30 fl oz),,,,,,0,0,0,0,kfc
+diet pepsi® wild cherry pepsi® (12 fl oz),,,,,,0,0,0,0,kfc
+diet pepsi® wild cherry pepsi® (16 fl oz),,,,,,0,0,0,0,kfc
+diet pepsi® wild cherry pepsi® (20 fl oz),,,,,,0,0,0,0,kfc
+diet pepsi® wild cherry pepsi® (30 fl oz),,,,,,0,0,0,0,kfc
+dr pepper® (12 fl oz),,,,,,140,0,0,39,kfc
+dr pepper® (16 fl oz),,,,,,190,0,0,52,kfc
+dr pepper® (20 fl oz),,,,,,240,0,0,65,kfc
+dr pepper® (30 fl oz),,,,,,360,0,0,98,kfc
+lipton® brisk® lemon tea (12 fl oz),,,,,,80,0,0,22,kfc
+lipton® brisk® lemon tea (16 fl oz),,,,,,110,0,0,29,kfc
+lipton® brisk® lemon tea (20 fl oz),,,,,,140,0,0,36,kfc
+lipton® brisk® lemon tea (30 fl oz),,,,,,210,0,0,55,kfc
+lipton® brisk® no calorie peach iced green tea (12 fl oz),,,,,,0,0,0,0,kfc
+lipton® brisk® no calorie peach iced green tea (16 fl oz),,,,,,0,0,0,0,kfc
+lipton® brisk® no calorie peach iced green tea (20 fl oz),,,,,,5,0,0,0,kfc
+lipton® brisk® no calorie peach iced green tea (30 fl oz),,,,,,10,0,0,0,kfc
+lipton® brisk® raspberry tea (12 fl oz),,,,,,80,0,0,20,kfc
+lipton® brisk® raspberry tea (16 fl oz),,,,,,100,0,0,26,kfc
+lipton® brisk® raspberry tea (20 fl oz),,,,,,130,0,0,33,kfc
+lipton® brisk® raspberry tea (30 fl oz),,,,,,190,0,0,49,kfc
+lipton® brisk® sweet iced tea (12 fl oz),,,,,,80,0,0,22,kfc
+lipton® brisk® sweet iced tea (16 fl oz),,,,,,110,0,0,29,kfc
+lipton® brisk® sweet iced tea (20 fl oz),,,,,,130,0,0,36,kfc
+lipton® brisk® sweet iced tea (30 fl oz),,,,,,200,0,0,54,kfc
+lipton® brisk® unsweetened no lemon iced tea (12 fl oz),,,,,,0,0,0,0,kfc
+lipton® brisk® unsweetened no lemon iced tea (16 fl oz),,,,,,0,0,0,0,kfc
+lipton® brisk® unsweetened no lemon iced tea (20 fl oz),,,,,,0,0,0,0,kfc
+lipton® brisk® unsweetened no lemon iced tea (30 fl oz),,,,,,0,0,0,0,kfc
+manzanita sol® (12 fl oz),,,,,,160,0,0,42,kfc
+manzanita sol® (16 fl oz),,,,,,210,0,0,57,kfc
+manzanita sol® (20 fl oz),,,,,,260,0,0,71,kfc
+manzanita sol® (30 fl oz),,,,,,400,0,0,106,kfc
+miranda® strawberry (12 fl oz),,,,,,160,0,0,44,kfc
+miranda® strawberry (16 fl oz),,,,,,220,0,0,58,kfc
+miranda® strawberry (20 fl oz),,,,,,270,0,0,73,kfc
+miranda® strawberry (30 fl oz),,,,,,410,0,0,109,kfc
+mist twst® (12 fl oz),,,,,,150,0,0,41,kfc
+mist twst® (16 fl oz),,,,,,200,0,0,54,kfc
+mist twst® (20 fl oz),,,,,,260,0,0,68,kfc
+mist twst® (30 fl oz),,,,,,380,0,0,101,kfc
+mnt dew sweet lightning (20 fl oz),,,,,,120,0,0,32,kfc
+mountain dew® (12 fl oz),,,,,,160,0,0,44,kfc
+mountain dew® (16 fl oz),,,,,,220,0,0,59,kfc
+mountain dew® (20 fl oz),,,,,,270,0,0,73,kfc
+mountain dew® (30 fl oz),,,,,,410,0,0,110,kfc
+mug root beer® (12 fl oz),,,,,,140,0,0,39,kfc
+mug root beer® (16 fl oz),,,,,,190,0,0,52,kfc
+mug root beer® (20 fl oz),,,,,,240,0,0,65,kfc
+mug root beer® (30 fl oz),,,,,,360,0,0,98,kfc
+pepsi zero sugar® (12 fl oz),,,,,,0,0,0,0,kfc
+pepsi zero sugar® (16 fl oz),,,,,,0,0,0,0,kfc
+pepsi zero sugar® (20 fl oz),,,,,,0,0,0,0,kfc
+pepsi zero sugar® (30 fl oz),,,,,,0,0,0,1,kfc
+pepsi® (12 fl oz),,,,,,150,0,0,41,kfc
+pepsi® (16 fl oz),,,,,,200,0,0,55,kfc
+pepsi® (20 fl oz),,,,,,250,0,0,69,kfc
+pepsi® (30 fl oz),,,,,,380,0,0,104,kfc
+sobe lifewater yumberry pomegranate (12 fl oz),,,,,,0,0,0,0,kfc
+sobe lifewater yumberry pomegranate (16 fl oz),,,,,,0,0,0,0,kfc
+sobe lifewater yumberry pomegranate (20 fl oz),,,,,,0,0,0,0,kfc
+sobe lifewater yumberry pomegranate (30 fl oz),,,,,,5,0,0,1,kfc
+strawberry lemonade (1/2 gallon),,,,,,950,0,0,270,kfc
+strawberry lemonade (20 fl oz),,,,,,170,0,0,45,kfc
+tropicana® fruit punch (12 fl oz),,,,,,170,0,0,45,kfc
+tropicana® fruit punch (16 fl oz),,,,,,230,0,0,60,kfc
+tropicana® fruit punch (20 fl oz),,,,,,280,0,0,75,kfc
+tropicana® fruit punch (30 fl oz),,,,,,420,0,0,113,kfc
+tropicana® light lemonade (12 fl oz),,,,,,5,0,0,0,kfc
+tropicana® light lemonade (16 fl oz),,,,,,10,0,0,0,kfc
+tropicana® light lemonade (20 fl oz),,,,,,10,0,0,0,kfc
+tropicana® light lemonade (30 fl oz),,,,,,15,0,0,1,kfc
+tropicana® pink lemonade (12 fl oz),,,,,,150,0,0,40,kfc
+tropicana® pink lemonade (16 fl oz),,,,,,210,0,0,53,kfc
+tropicana® pink lemonade (20 fl oz),,,,,,260,0,0,67,kfc
+tropicana® pink lemonade (30 fl oz),,,,,,390,0,0,100,kfc
+tropicana® twister® orange (12 fl oz),,,,,,170,0,0,46,kfc
+tropicana® twister® orange (16 fl oz),,,,,,230,0,0,61,kfc
+tropicana® twister® orange (20 fl oz),,,,,,290,0,0,76,kfc
+tropicana® twister® orange (30 fl oz),,,,,,430,0,0,115,kfc
+wild cherry pepsi® (12 fl oz),,,,,,160,0,0,42,kfc
+wild cherry pepsi® (16 fl oz),,,,,,210,0,0,56,kfc
+wild cherry pepsi® (20 fl oz),,,,,,260,0,0,70,kfc
+wild cherry pepsi® (30 fl oz),,,,,,390,0,0,105,kfc
+country fried steak without peppered white gravy,,,,,,360,13,24,22,kfc
+country fried steak with peppered white gravy,,,,,,390,13,26,26,kfc
+kfc® gizzards,,,,,,300,20,16,18,kfc
+kfc® livers,,,,,,230,17,13,12,kfc
+bacon club chalupa,,,,,,440,20,27,31,taco bell
+blue raspberry freeze™ (16 oz),,,,,,120,0,0,30,taco bell
+blue raspberry freeze™ (20 oz),,,,,,150,0,0,38,taco bell
+loaded nacho taco,,,,,,250,10,12,24,taco bell
+midnight berry freeze™ (16 oz),,,,,,140,0,0,35,taco bell
+midnight berry freeze™ (20 oz),,,,,,170,0,0,43,taco bell
+nacho fries,,,,,,320,4,18,35,taco bell
+nacho fries bellgrande®,,,,,,710,13,40,73,taco bell
+black bean chalupa – online exclusive,,,,,,330,10,15,39,taco bell
+black bean quesarito – online exclusive,,,,,,630,19,29,73,taco bell
+quesarito – online exclusive,,,,,,650,22,33,67,taco bell
+chalupa supreme® – beef,,,,,,350,13,18,33,taco bell
+chalupa supreme® – chicken,,,,,,330,16,15,31,taco bell
+chalupa supreme® – steak,,,,,,330,15,16,32,taco bell
+cheesy gordita crunch,,,,,,500,20,28,41,taco bell
+crunchy taco,,,,,,170,8,9,13,taco bell
+crunchy taco supreme®,,,,,,190,8,11,15,taco bell
+loaded nacho taco (new),,,,,,250,10,12,24,taco bell
+nacho cheese doritos® locos taco,,,,,,170,8,9,13,taco bell
+nacho cheese doritos® locos taco supreme®,,,,,,190,8,11,15,taco bell
+soft taco – beef,,,,,,180,9,9,17,taco bell
+soft taco – chicken,,,,,,160,12,5,16,taco bell
+soft taco supreme®,,,,,, , , , ,taco bell
+bean burrito (v),,,,,,350,13,9,54,taco bell
+beefy 5-layer burrito,,,,,,490,18,18,63,taco bell
+burrito supreme® – beef,,,,,,390,16,14,51,taco bell
+burrito supreme® – chicken,,,,,,370,19,11,49,taco bell
+burrito supreme® – steak,,,,,,370,18,12,49,taco bell
+chili cheese burrito (regional),,,,,,370,16,17,40,taco bell
+quesarito – beef,,,,,,650,22,33,67,taco bell
+quesarito – chicken,,,,,,620,25,29,66,taco bell
+quesarito – steak,,,,,,630,24,30,66,taco bell
+chips and nacho cheese sauce (v),,,,,,220,2,13,24,taco bell
+nacho fries (v) (new),,,,,,320,4,18,35,taco bell
+nacho fries bellgrande® (new),,,,,,710,13,40,73,taco bell
+nachos bellgrande® – beef,,,,,,740,16,38,82,taco bell
+nachos bellgrande® – chicken,,,,,,720,20,35,81,taco bell
+nachos bellgrande® – steak,,,,,,720,19,36,81,taco bell
+beef quesarito,,,,,,650,22,33,67,taco bell
+black bean quesarito (v),,,,,,630,19,29,73,taco bell
+quesadilla – cheese (v),,,,,,470,19,25,37,taco bell
+quesadilla – chicken,,,,,,510,27,26,38,taco bell
+quesadilla – steak,,,,,,520,27,27,38,taco bell
+bacon club chalupa – specialties,,,,,,440,20,27,31,taco bell
+black bean chalupa – specialties,,,,,,330,10,15,39,taco bell
+black bean crunchwrap supreme – specialties,,,,,,510,13,17,77,taco bell
+black bean quesarito – specialties,,,,,,630,19,29,73,taco bell
+chalupa supreme® – specialties,,,,,,350,13,18,33,taco bell
+cheesy gordita crunch – specialties,,,,,,500,20,28,41,taco bell
+cheesy roll up – specialties,,,,,,180,9,9,15,taco bell
+crunchwrap supreme® – specialties,,,,,,530,16,21,71,taco bell
+crunchy taco – specialties,,,,,,170,8,9,13,taco bell
+nacho cheese doritos® locos taco – specialties,,,,,,170,8,9,13,taco bell
+nachos bellgrande® – specialties,,,,,,740,16,38,82,taco bell
+power menu bowl – specialties,,,,,,470,26,19,50,taco bell
+quesadilla – specialties,,,,,,510,27,26,38,taco bell
+quesarito – specialties,,,,,,650,22,33,67,taco bell
+soft taco – specialties,,,,,,180,9,9,17,taco bell
+soft taco supreme – specialties,,,,,,210,10,10,20,taco bell
+veggie power menu bowl – specialties,,,,,,430,12,17,57,taco bell
+black beans & rice (v),,,,,,170,4,3.5,31,taco bell
+black beans (v),,,,,,50,2,1,8,taco bell
+cinnabon® delights™ (2 pk) (v),,,,,,160,2,9,17,taco bell
+cinnabon® delights™ (12 pk – serves 4) (v),,,,,,930,9,53,104,taco bell
+cinnamon twists (v),,,,,,170,1,6,27,taco bell
+diablo sauce packet (v),,,,,,0,0,0,0,taco bell
+fire sauce packet (v),,,,,,0,0,0,0,taco bell
+hot sauce packet (v),,,,,,0,0,0,0,taco bell
+mild sauce packet (v),,,,,,0,0,0,0,taco bell
+blue raspberry freeze™ (16 oz) (new),,,,,,120,0,0,30,taco bell
+blue raspberry freeze™ (20 oz) (new),,,,,,150,0,0,38,taco bell
+dragon fruit freeze (16 oz),,,,,,190,0,0,49,taco bell
+dragon fruit freeze (20 oz),,,,,,230,0,0,59,taco bell
+lowfat milk – ca (regional),,,,,,100,9,2,13,taco bell
+lowfat milk – federal (regional),,,,,,80,7,2,10,taco bell
+midnight berry freeze™ (16 oz) (new),,,,,,140,0,0,35,taco bell
+midnight berry freeze™ (20 oz) (new),,,,,,170,0,0,43,taco bell
+mtn dew® baja blast freeze™ (16 oz),,,,,,150,0,0,41,taco bell
+mtn dew® baja blast freeze™ (20 oz),,,,,,190,0,0,51,taco bell
+orange juice,,,,,,140,2,0,33,taco bell
+premium hot coffee,,,,,,10,2,0,0,taco bell
+regular iced coffee,,,,,,10,2,0,0,taco bell
+water,,,,,,0,0,0,0,taco bell
+wild strawberry freeze™ (16 oz),,,,,,150,0,0,41,taco bell
+wild strawberry freeze™ (20 oz),,,,,,190,0,0,51,taco bell
+beef burrito – value menu,,,,,,430,12,19,51,taco bell
+cheesy bean & rice burrito – value menu,,,,,,420,10,16,56,taco bell
+cheesy roll up – value menu,,,,,,180,9,9,15,taco bell
+chicken chipotle melt – value menu,,,,,,190,12,9,15,taco bell
+chips and nacho cheese sauce – value menu,,,,,,220,2,13,24,taco bell
+cinnamon twists – value menu,,,,,,170,1,6,27,taco bell
+loaded nacho taco – value menu,,,,,,250,10,12,24,taco bell
+bean burrito,,,,,,350,13,9,54,taco bell
+black bean chalupa,,,,,,330,10,15,39,taco bell
+black bean crunchwrap supreme,,,,,,510,13,17,77,taco bell
+black bean quesarito,,,,,,630,19,29,73,taco bell
+black beans & rice,,,,,,170,4,3.5,31,taco bell
+cheese quesadilla,,,,,,470,19,25,37,taco bell
+cheesy bean & rice burrito,,,,,,420,10,16,56,taco bell
+cheesy roll up,,,,,,180,9,9,15,taco bell
+chips and nacho cheese sauce,,,,,,220,2,13,24,taco bell
+cinnabon® delights™ (2 pack),,,,,,160,2,9,17,taco bell
+cinnabon® delights™ (12 pack – serves 4),,,,,,930,9,53,104,taco bell
+cinnamon twists,,,,,,170,1,6,27,taco bell
+power menu bowl – veggie,,,,,,430,12,17,57,taco bell
+power menu bowl – chicken,,,,,,470,26,19,50,taco bell
+power menu bowl – steak,,,,,,480,25,20,51,taco bell
+power menu bowl – veggie (v),,,,,,430,12,17,57,taco bell
+breakfast crunchwrap – bacon,,,,,,670,21,41,50,taco bell
+breakfast crunchwrap – sausage,,,,,,720,21,47,51,taco bell
+breakfast crunchwrap – steak,,,,,,660,24,38,51,taco bell
+breakfast salsa packet (v),,,,,,0,0,0,<1,taco bell
+cheesy toasted breakfast burrito – bacon,,,,,,350,13,16,36,taco bell
+cheesy toasted breakfast burrito – fiesta potato (v),,,,,,340,10,14,43,taco bell
+cheesy toasted breakfast burrito – sausage,,,,,,340,11,17,36,taco bell
+cinnabon® delights™ (2 pack) (v),,,,,,160,2,9,17,taco bell
+cinnabon® delights™ (12 pack – serves 4) (v),,,,,,930,9,53,104,taco bell
+grande toasted breakfast burrito – bacon,,,,,,560,24,30,49,taco bell
+grande toasted breakfast burrito – sausage,,,,,,560,22,31,49,taco bell
+grande toasted breakfast burrito – steak,,,,,,560,27,28,50,taco bell
+hash brown (v),,,,,,160,1,12,13,taco bell
+hash brown toasted breakfast burrito – bacon,,,,,,570,21,33,49,taco bell
+hash brown toasted breakfast burrito – sausage,,,,,,570,18,34,49,taco bell
+hash brown toasted breakfast burrito – steak,,,,,,570,24,30,50,taco bell
+7-up (16 fl oz),,,,,,190,,,,taco bell
+brisk® mango iced tea (16 fl oz),,,,,,100,,,,taco bell
+brisk® unsweetened no lemon iced tea (16 fl oz),,,,,,0,,,,taco bell
+diet mtn dew® (16 fl oz),,,,,,5,,,,taco bell
+g2 – fruit punch (16 fl oz),,,,,,30,,,,taco bell
+mtn dew® (16 fl oz),,,,,,220,,,,taco bell
+mtn dew® baja blast™ (16 fl oz),,,,,,220,,,,taco bell
+mtn dew® baja blast zero sugar (16 fl oz),,,,,,5,,,,taco bell
+mtn dew® kickstart™ orange citrus (16 fl oz),,,,,,70,,,,taco bell
+mug® root beer (16 fl oz),,,,,,190,,,,taco bell
+pepsi® wild cherry (16 fl oz),,,,,,210,,,,taco bell
+pepsi® zero sugar (16 fl oz),,,,,,0,,,,taco bell
+sierra mist® (16 fl oz),,,,,,200,,,,taco bell
+7-up (20 fl oz),,,,,,240,,,,taco bell
+brisk® mango iced tea (20 fl oz),,,,,,120,,,,taco bell
+brisk® unsweetened no lemon iced tea (20 fl oz),,,,,,0,,,,taco bell
+diet mtn dew® (20 fl oz),,,,,,10,,,,taco bell
+g2 – fruit punch (20 fl oz),,,,,,35,,,,taco bell
+mtn dew® (20 fl oz),,,,,,270,,,,taco bell
+mtn dew® baja blast™ (20 fl oz),,,,,,280,,,,taco bell
+mtn dew® baja blast zero sugar (20 fl oz),,,,,,10,,,,taco bell
+mtn dew® kickstart™ orange citrus (20 fl oz),,,,,,90,,,,taco bell
+mug® root beer (20 fl oz),,,,,,240,,,,taco bell
+pepsi® wild cherry (20 fl oz),,,,,,260,,,,taco bell
+pepsi® zero sugar (20 fl oz),,,,,,0,,,,taco bell
+sierra mist® (20 fl oz),,,,,,260,,,,taco bell
+ ,,,,,, ,,,,taco bell
+fountain beverages (30 oz),,,,,, ,,,,taco bell
+7-up (30 fl oz),,,,,,350,,,,taco bell
+brisk® mango iced tea (30 fl oz),,,,,,180,,,,taco bell
+brisk® unsweetened no lemon iced tea (30 fl oz),,,,,,0,,,,taco bell
+diet mtn dew® (30 fl oz),,,,,,10,,,,taco bell
+g2 – fruit punch (30 fl oz),,,,,,50,,,,taco bell
+mtn dew® (30 fl oz),,,,,,410,,,,taco bell
+mtn dew® baja blast™ (30 fl oz),,,,,,420,,,,taco bell
+mtn dew® baja blast zero sugar (30 fl oz),,,,,,15,,,,taco bell
+mtn dew® kickstart™ orange citrus (30 fl oz),,,,,,130,,,,taco bell
+mug® root beer (30 fl oz),,,,,,360,,,,taco bell
+pepsi® wild cherry (30 fl oz),,,,,,390,,,,taco bell
+pepsi® zero sugar (30 fl oz),,,,,,0,,,,taco bell
+sierra mist® (30 fl oz),,,,,,380,,,,taco bell
+detroit double cheesy pizza slice,,,,,,280,13,12,31,pizza hut
+detroit double pepperoni pizza slice,,,,,,330,14,17,30,pizza hut
+detroit meaty pizza slice,,,,,,320,14,16,31,pizza hut
+detroit supremo pizza slice,,,,,,290,13,13,31,pizza hut
+pan pizza slices backyard bbq chicken personal pan,,,,,,180,8,6,25,pizza hut
+pan pizza slices backyard bbq chicken medium,,,,,,270,11,10,33,pizza hut
+pan pizza slices backyard bbq chicken large,,,,,,380,16,16,43,pizza hut
+pan pizza slices beyond meat® pepperoni medium,,,,,,240,10,10,29,pizza hut
+pan pizza slices beyond meat® pepperoni large,,,,,,350,14,16,38,pizza hut
+pan pizza slices buffalo chicken personal pan,,,,,,160,7,5,22,pizza hut
+pan pizza slices buffalo chicken medium,,,,,,240,11,9,31,pizza hut
+pan pizza slices buffalo chicken large,,,,,,350,15,14,40,pizza hut
+pan pizza slices cheese personal pan,,,,,,150,7,6,17,pizza hut
+pan pizza slices cheese medium,,,,,,250,11,10,28,pizza hut
+pan pizza slices cheese large,,,,,,360,16,17,37,pizza hut
+pan pizza slices chicken bacon parmesan personal pan,,,,,,180,9,8,17,pizza hut
+pan pizza slices chicken bacon parmesan medium,,,,,,270,12,13,27,pizza hut
+pan pizza slices chicken bacon parmesan large,,,,,,390,18,20,35,pizza hut
+pan pizza slices hawaiian chicken personal pan,,,,,,150,8,5,18,pizza hut
+pan pizza slices hawaiian chicken medium,,,,,,240,12,9,29,pizza hut
+pan pizza slices hawaiian chicken large,,,,,,350,17,15,38,pizza hut
+pan pizza slices meat lover’s® personal pan,,,,,,210,9,12,18,pizza hut
+pan pizza slices meat lover’s® medium,,,,,,320,13,17,28,pizza hut
+pan pizza slices meat lover’s® large,,,,,,470,19,27,37,pizza hut
+pan pizza slices pepperoni personal pan,,,,,,150,6,7,17,pizza hut
+pan pizza slices pepperoni medium,,,,,,250,10,11,28,pizza hut
+pan pizza slices pepperoni large,,,,,,370,15,18,36,pizza hut
+pan pizza slices pepperoni lover’s® personal pan,,,,,,180,8,9,17,pizza hut
+pan pizza slices pepperoni lover’s® medium,,,,,,300,13,15,28,pizza hut
+pan pizza slices pepperoni lover’s® large,,,,,,440,19,24,37,pizza hut
+pan pizza slices supreme personal pan,,,,,,170,7,8,18,pizza hut
+pan pizza slices supreme medium,,,,,,270,11,13,29,pizza hut
+pan pizza slices supreme large,,,,,,390,16,20,37,pizza hut
+pan pizza slices ultimate cheese lover’s® personal pan,,,,,,170,8,8,17,pizza hut
+pan pizza slices ultimate cheese lover’s® medium,,,,,,270,12,13,27,pizza hut
+pan pizza slices ultimate cheese lover’s® large,,,,,,390,17,20,36,pizza hut
+pan pizza slices veggie lover’s® personal pan,,,,,,140,6,5,18,pizza hut
+pan pizza slices veggie lover’s® medium,,,,,,230,9,9,29,pizza hut
+pan pizza slices veggie lover’s® large,,,,,,330,14,15,38,pizza hut
+hand tossed slices backyard bbq chicken small,,,,,,140,6,4,20,pizza hut
+hand tossed slices backyard bbq chicken medium,,,,,,220,10,7,31,pizza hut
+hand tossed slices backyard bbq chicken large,,,,,,300,14,10,40,pizza hut
+hand tossed slices beyond meat® pepperoni medium,,,,,,200,9,7,26,pizza hut
+hand tossed slices beyond meat® pepperoni large,,,,,,280,12,10,35,pizza hut
+hand tossed slices  buffalo chicken small,,,,,,130,6,3.5,19,pizza hut
+hand tossed slices  buffalo chicken medium,,,,,,200,9,5,28,pizza hut
+hand tossed slices  buffalo chicken large,,,,,,270,13,8,37,pizza hut
+hand tossed slices cheese small,,,,,,130,6,4.5,17,pizza hut
+hand tossed slices cheese medium,,,,,,210,10,8,26,pizza hut
+hand tossed slices cheese large,,,,,,290,13,10,34,pizza hut
+hand tossed slices chicken bacon parmesan small,,,,,,150,7,6,16,pizza hut
+hand tossed slices chicken bacon parmesan medium,,,,,,230,11,9,25,pizza hut
+hand tossed slices chicken bacon parmesan large,,,,,,310,16,13,33,pizza hut
+hand tossed slices hawaiian chicken small,,,,,,130,7,4,17,pizza hut
+hand tossed slices hawaiian chicken medium,,,,,,210,10,6,27,pizza hut
+hand tossed slices hawaiian chicken large,,,,,,280,15,9,36,pizza hut
+hand tossed slices meat lover’s® small,,,,,,180,7,9,17,pizza hut
+hand tossed slices meat lover’s® medium,,,,,,290,12,15,26,pizza hut
+hand tossed slices meat lover’s® large,,,,,,390,17,21,34,pizza hut
+hand tossed slices pepperoni small,,,,,,130,6,5,16,pizza hut
+hand tossed slices pepperoni medium,,,,,,220,9,9,25,pizza hut
+hand tossed slices pepperoni large,,,,,,300,13,13,34,pizza hut
+hand tossed slices pepperoni lover’s® small,,,,,,160,7,7,17,pizza hut
+hand tossed slices pepperoni lover’s® medium,,,,,,270,12,13,26,pizza hut
+hand tossed slices pepperoni lover’s® large,,,,,,370,17,18,35,pizza hut
+hand tossed slices supreme small,,,,,,150,6,6,17,pizza hut
+hand tossed slices supreme medium,,,,,,240,10,10,26,pizza hut
+hand tossed slices supreme large,,,,,,320,14,14,35,pizza hut
+hand tossed slices ultimate cheese lover’s® small,,,,,,150,6,6,16,pizza hut
+hand tossed slices ultimate cheese lover’s® medium,,,,,,230,11,10,25,pizza hut
+hand tossed slices ultimate cheese lover’s® large,,,,,,310,15,13,33,pizza hut
+hand tossed slices veggie lover’s® small,,,,,,120,5,4,17,pizza hut
+hand tossed slices veggie lover’s® medium,,,,,,200,8,6,27,pizza hut
+hand tossed slices veggie lover’s® large,,,,,,260,11,9,36,pizza hut
